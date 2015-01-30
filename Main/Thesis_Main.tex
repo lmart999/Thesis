@@ -1,0 +1,74 @@
+% !TEX program = pdflatex
+
+\documentclass[12pt]{report}
+
+\usepackage{suthesis-2e}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{booktabs}
+
+%% font specification
+\usepackage[T1]{fontenc}
+\usepackage{charter}
+\usepackage[expert]{mathdesign}
+
+%% toc format
+%\usepackage{tocloft}
+%\renewcommand{\cfttoctitlefont} % ToC title
+%             {\usefont{T1}{qhv}{b}{n}\selectfont\huge}
+%\renewcommand{\cftchapfont} % chapter titles
+%             {\usefont{T1}{qhv}{b}{n}\selectfont}
+%\renewcommand{\cftsecfont} % section titles
+%             {\usefont{T1}{bch}{m}{n}\selectfont}
+%\renewcommand{\cftsubsecfont} % subsection titles
+%             {\usefont{T1}{bch}{m}{n}\selectfont}
+%\renewcommand{\cftchappagefont} % chapter page numbers
+%             {\usefont{T1}{bch}{b}{n}\selectfont}
+%\renewcommand{\cftsecpagefont} % section page numbers
+%             {\cftsecfont}
+%\renewcommand{\cftsubsecpagefont} % subsection page numbers
+%             {\cftsubsecfont}
+%\renewcommand{\cftlottitlefont} % LoT title
+%             {\usefont{T1}{qhv}{b}{n}\selectfont\huge}
+%\renewcommand{\cftloftitlefont} % LoF title
+%             {\usefont{T1}{qhv}{b}{n}\selectfont\huge}
+             
+%% chapter headings format
+%\usepackage{sectsty}
+%\chapterfont{\usefont{T1}{qhv}{b}{n}\selectfont\huge}
+
+%% section headings format
+%\usepackage{titlesec}
+%\titleformat{\section}[hang]{\usefont{T1}{qhv}{b}{n}\selectfont}{}{0em}{\hspace{-0.4pt}\Large\thesection\hspace{0.6em}}
+%\titleformat{\subsection}[hang]{\usefont{T1}{qhv}{b}{n}\selectfont}{}{0em}{\hspace{-0.4pt}\large\thesection\hspace{0.6em}}
+%\titleformat{\subsubsection}[hang]{\usefont{T1}{qhv}{b}{n}\selectfont}{}{0em}{\normalsize}
+
+%\includeonly{abstract}
+
+\begin{document}
+
+\title{Monitoring the human infectome}
+\author{Lance Martin}
+\dept{Bioengineering}
+\principaladviser{Steve Quake}
+\firstreader{Howard Chang}
+\secondreader{Peter Sarnow}
+
+\beforepreface
+\include{abstract}
+\include{acknowledgment/acknowledgment}
+\afterpreface 
+
+\include{ch1/ch1}
+\include{ch2/ch2}
+\include{ch3/ch3}
+\include{ch4/ch4}
+
+
+\bibliography{thesis_bib}
+\bibliographystyle{abbrv}
+
+\end{document}

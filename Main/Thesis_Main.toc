@@ -1,0 +1,18 @@
+\contentsline {chapter}{Abstract}{iv}
+\contentsline {chapter}{Acknowledgments}{v}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}History of infectious disease}{1}
+\contentsline {section}{\numberline {1.2}Technology}{2}
+\contentsline {subsection}{\numberline {1.2.1}Historical}{2}
+\contentsline {subsection}{\numberline {1.2.2}High-throughput methods}{3}
+\contentsline {subsection}{\numberline {1.2.3}The case for high-throughput sequencing}{5}
+\contentsline {subsection}{\numberline {1.2.4}NGS challenges and opportunities}{6}
+\contentsline {section}{\numberline {1.3}Contributions and outline of this thesis}{7}
+\contentsline {chapter}{\numberline {2}Infectome pipeline}{8}
+\contentsline {section}{\numberline {2.1}Human microbiome in cell-free DNA}{8}
+\contentsline {section}{\numberline {2.2}Pipeline for capturing microbiome in cell-free DNA}{9}
+\contentsline {chapter}{\numberline {3}Clinical validation}{15}
+\contentsline {section}{\numberline {3.1}Organ transplantation}{15}
+\contentsline {section}{\numberline {3.2}Deep tissues}{17}
+\contentsline {section}{\numberline {3.3}Untested infections}{18}
+\contentsline {chapter}{Bibliography}{20}

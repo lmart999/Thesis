@@ -1,0 +1,484 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JAN 2015 20:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Thesis_Main.tex
+(./Thesis_Main.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(./suthesis-2e.sty
+Document Style Option `suthesis' for latex2e <$Date: 5/07/2007 $>.
+Note that this tries to fulfill the Stanford Thesis requirements but it is unof
+ficial
+(/usr/local/texlive/2014/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+\signaturespace=\skip43
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks19
+\float@box=\box28
+\@float@everytoks=\toks20
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count102
+\@cmidlb=\count103
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count104
+\@lastruleclass=\count105
+\@thisrulewidth=\dimen126
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/charter.sty
+Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mathdesign/mathdesign.sty
+Package: mathdesign 2013/08/29 v2.31 Math Design Project
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+
+Package mathdesign Warning: No font specified on input line 175.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)))
+(./Thesis_Main.aux (./abstract.aux) (./acknowledgment/acknowledgment.aux)
+(./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux))
+\openout1 = `Thesis_Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Try loading font information for T1+bch on input line 51.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen127
+\scratchbox=\box30
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen128
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+bch on input line 60.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsbch.fd
+File: omsbch.fd 
+)
+LaTeX Font Info:    Font shape `OMS/bch/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
+ [2]
+LaTeX Font Info:    Try loading font information for U+msa on input line 60.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 60.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [3]
+\openout2 = `abstract.aux'.
+
+
+(./abstract.tex) [4
+
+
+
+]
+\openout2 = `acknowledgment/acknowledgment.aux'.
+
+ (./acknowledgment/acknowledgment.tex) [5
+
+
+
+]
+(./Thesis_Main.toc)
+\tf@toc=\write3
+\openout3 = `Thesis_Main.toc'.
+
+ [6
+
+
+] (./Thesis_Main.lot)
+\tf@lot=\write4
+\openout4 = `Thesis_Main.lot'.
+
+ [7
+
+] (./Thesis_Main.lof)
+\tf@lof=\write5
+\openout5 = `Thesis_Main.lof'.
+
+ [8
+
+]
+\openout2 = `ch1/ch1.aux'.
+
+
+(./ch1/ch1.tex
+Chapter 1.
+[1
+
+
+
+] <Figures/Fig1.pdf, id=34, 663.47874pt x 469.755pt>
+File: Figures/Fig1.pdf Graphic file (type pdf)
+ <use Figures/Fig1.pdf>
+Package pdftex.def Info: Figures/Fig1.pdf used on input line 17.
+(pdftex.def)             Requested size: 331.73856pt x 234.87692pt.
+
+<Figures/Fig2.pdf, id=35, 614.295pt x 794.97pt>
+File: Figures/Fig2.pdf Graphic file (type pdf)
+ <use Figures/Fig2.pdf>
+Package pdftex.def Info: Figures/Fig2.pdf used on input line 25.
+(pdftex.def)             Requested size: 307.14674pt x 397.48402pt.
+ [2]
+[3 <./Figures/Fig1.pdf>] [4 <./Figures/Fig2.pdf>] [5]) [6] [7]
+\openout2 = `ch2/ch2.aux'.
+
+ (./ch2/ch2.tex
+Chapter 2.
+
+Overfull \hbox (8.85133pt too wide) in paragraph at lines 9--9
+[]\T1/bch/b/n/17.28 Pipeline for cap-tur-ing mi-cro-biome in cell-free DNA 
+ []
+
+[8
+
+
+
+] <Figures/Fig3.pdf, id=84, 728.7225pt x 439.6425pt>
+File: Figures/Fig3.pdf Graphic file (type pdf)
+ <use Figures/Fig3.pdf>
+Package pdftex.def Info: Figures/Fig3.pdf used on input line 14.
+(pdftex.def)             Requested size: 364.36035pt x 219.82071pt.
+
+[9 <./Figures/Fig3.pdf>] <Figures/Fig4.pdf, id=98, 1172.38pt x 328.22626pt>
+File: Figures/Fig4.pdf Graphic file (type pdf)
+
+<use Figures/Fig4.pdf>
+Package pdftex.def Info: Figures/Fig4.pdf used on input line 22.
+(pdftex.def)             Requested size: 586.18857pt x 164.11272pt.
+ [10 <./Figures/Fig4.pdf>]
+<Figures/Fig5.pdf, id=112, 1018.80624pt x 682.55pt>
+File: Figures/Fig5.pdf Graphic file (type pdf)
+ <use Figures/Fig5.pdf>
+Package pdftex.def Info: Figures/Fig5.pdf used on input line 32.
+(pdftex.def)             Requested size: 509.40187pt x 341.27417pt.
+
+Overfull \hbox (4.25226pt too wide) in paragraph at lines 37--38
+\T1/bch/m/n/12 ti-fied within a spec-i-fied pa-tient at a spec-i-fied tax-o-nom
+ic scale (e.g., genus or species).
+ []
+
+[11 <./Figures/Fig5.pdf>] <Figures/Fig6.pdf, id=127, 1254.6875pt x 718.685pt>
+File: Figures/Fig6.pdf Graphic file (type pdf)
+
+<use Figures/Fig6.pdf>
+Package pdftex.def Info: Figures/Fig6.pdf used on input line 40.
+(pdftex.def)             Requested size: 627.34222pt x 359.34161pt.
+ [12 <./Figures/Fig6.pdf>]
+<Figures/Fig7.pdf, id=144, 1253.68375pt x 799.98875pt>
+File: Figures/Fig7.pdf Graphic file (type pdf)
+ <use Figures/Fig7.pdf>
+Package pdftex.def Info: Figures/Fig7.pdf used on input line 49.
+(pdftex.def)             Requested size: 626.84035pt x 399.9934pt.
+
+[13 <./Figures/Fig7.pdf>]
+<Figures/Fig8.pdf, id=158, 1241.63875pt x 759.83875pt>
+File: Figures/Fig8.pdf Graphic file (type pdf)
+ <use Figures/Fig8.pdf>
+Package pdftex.def Info: Figures/Fig8.pdf used on input line 57.
+(pdftex.def)             Requested size: 620.81786pt x 379.91844pt.
+)
+[14 <./Figures/Fig8.pdf>]
+\openout2 = `ch3/ch3.aux'.
+
+ (./ch3/ch3.tex
+Chapter 3.
+[15
+
+
+
+] <Figures/Fig9.pdf, id=176, 994.71625pt x 616.3025pt>
+File: Figures/Fig9.pdf Graphic file (type pdf)
+
+<use Figures/Fig9.pdf>
+Package pdftex.def Info: Figures/Fig9.pdf used on input line 10.
+(pdftex.def)             Requested size: 497.3569pt x 308.1505pt.
+ [16 <./Figures/Fig9.pdf>]
+<Figures/Fig10.pdf, id=190, 1130.2225pt x 430.60875pt>
+File: Figures/Fig10.pdf Graphic file (type pdf)
+ <use Figures/Fig10.pdf>
+Package pdftex.def Info: Figures/Fig10.pdf used on input line 20.
+(pdftex.def)             Requested size: 565.10988pt x 215.30383pt.
+
+[17 <./Figures/Fig10.pdf>]
+<Figures/Fig11.pdf, id=205, 879.285pt x 504.88625pt>
+File: Figures/Fig11.pdf Graphic file (type pdf)
+ <use Figures/Fig11.pdf>
+Package pdftex.def Info: Figures/Fig11.pdf used on input line 34.
+(pdftex.def)             Requested size: 439.64143pt x 252.44249pt.
+
+Overfull \hbox (0.22028pt too wide) in paragraph at lines 39--40
+\T1/bch/m/n/12 pathogens that were not rou-tinely screened, in-clud-ing ade-n-o
+virus and poly-omavirus
+ []
+
+
+Overfull \hbox (33.80344pt too wide) in paragraph at lines 39--40
+\T1/bch/m/n/12 showed that hypothesis-free in-fec-tion mon-i-tor-ing re-vealed 
+nu-mer-ous un-tested pathogens,
+ []
+
+
+Overfull \hbox (3.72182pt too wide) in paragraph at lines 39--40
+\T1/bch/m/n/12 in-clud-ing un-diagnosed cases of ade-n-ovirus, poly-omav-ius, H
+HV-8, and mi-crosporidia
+ []
+
+[18 <./Figures/Fig11.pdf>]) [19] (./Thesis_Main.bbl [20
+
+
+]) [21]
+(./Thesis_Main.aux (./abstract.aux) (./acknowledgment/acknowledgment.aux)
+(./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3177 strings out of 493117
+ 41962 string characters out of 6135433
+ 101347 words of memory out of 5000000
+ 6502 multiletter control sequences out of 15000+600000
+ 36690 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,8n,26p,1472b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texm
+f-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/bitstrea/charter/bchb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/bitstrea/charter/bchr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/bi
+tstrea/charter/bchr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/bitst
+rea/charter/bchri8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb>
+Output written on Thesis_Main.pdf (29 pages, 1688910 bytes).
+PDF statistics:
+ 256 PDF objects out of 1000 (max. 8388607)
+ 171 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
