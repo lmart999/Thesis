@@ -5,46 +5,50 @@ A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: acknowledgment/acknowledgment.aux
 A level-1 auxiliary file: ch1/ch1.aux
 A level-1 auxiliary file: ch2/ch2.aux
+A level-1 auxiliary file: ch3/ch3.aux
+A level-1 auxiliary file: ch4/ch4.aux
 The style file: abbrv.bst
-Database file #1: thesis_bib.bib
-You've used 13 entries,
+Database file #1: Thesis_Refs.bib
+Warning--I didn't find a database entry for ""
+You've used 20 entries,
             2118 wiz_defined-function locations,
-            605 strings with 7069 characters,
-and the built_in function-call counts, 6312 in all, are:
-= -- 580
-> -- 465
-< -- 1
-+ -- 185
-- -- 172
-* -- 610
-:= -- 1096
-add.period$ -- 39
-call.type$ -- 13
-change.case$ -- 125
+            651 strings with 9040 characters,
+and the built_in function-call counts, 10160 in all, are:
+= -- 934
+> -- 770
+< -- 2
++ -- 306
+- -- 286
+* -- 973
+:= -- 1749
+add.period$ -- 60
+call.type$ -- 20
+change.case$ -- 203
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 148
-empty$ -- 362
-format.name$ -- 172
-if$ -- 1206
+cite$ -- 20
+duplicate$ -- 244
+empty$ -- 560
+format.name$ -- 286
+if$ -- 1952
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 13
-newline$ -- 68
-num.names$ -- 26
-pop$ -- 101
+int.to.str$ -- 20
+missing$ -- 20
+newline$ -- 103
+num.names$ -- 40
+pop$ -- 168
 preamble$ -- 1
-purify$ -- 112
+purify$ -- 183
 quote$ -- 0
-skip$ -- 98
+skip$ -- 174
 stack$ -- 0
-substring$ -- 410
-swap$ -- 18
-text.length$ -- 1
+substring$ -- 637
+swap$ -- 44
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 52
+type$ -- 80
 warning$ -- 0
-while$ -- 52
-width$ -- 15
-write$ -- 145
+while$ -- 79
+width$ -- 22
+write$ -- 222
+(There was 1 warning)

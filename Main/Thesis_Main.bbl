@@ -1,5 +1,21 @@
 \begin{thebibliography}{10}
 
+\bibitem{Aagaard:2014vk}
+K.~Aagaard, J.~Ma, K.~M. Antony, R.~Ganu, J.~Petrosino, and J.~Versalovic.
+\newblock {The placenta harbors a unique microbiome}.
+\newblock {\em Science Translational Medicine}, 6(237):237ra65--237ra65, 2014.
+
+\bibitem{Boyd:2013cc}
+S.~D. Boyd.
+\newblock {Diagnostic Applications of High-Throughput DNA Sequencing}.
+\newblock {\em Annual Review of Pathology: Mechanisms of Disease},
+  8(1):381--410, Jan. 2013.
+
+\bibitem{Brenchley:2012bm}
+J.~M. Brenchley and D.~C. Douek.
+\newblock {Microbial Translocation Across the GI Tract *}.
+\newblock {\em Annual Review of Immunology}, 30(1):149--173, Apr. 2012.
+
 \bibitem{Consortium:2012bb}
 T.~H. M.~P. Consortium.
 \newblock {Structure, function and diversity of the healthy human microbiome}.
@@ -41,6 +57,24 @@ J.~D. Hunter.
 \newblock {Matplotlib: A 2D graphics environment}.
 \newblock {\em Computing in Science {\&} Engineering}, 9(3):0090--0095, 2007.
 
+\bibitem{Koren:2012ji}
+O.~Koren, J.~K. Goodrich, T.~C. Cullender, A.~Spor, K.~Laitinen,
+  H.~Kling~B{\"a}ckhed, A.~Gonz{\'a}lez, J.~J. Werner, L.~T. Angenent,
+  R.~Knight, F.~B{\"a}ckhed, E.~Isolauri, S.~Salminen, and R.~E. Ley.
+\newblock {Host Remodeling of the Gut Microbiome and Metabolic Changes during
+  Pregnancy}.
+\newblock {\em Cell}, 150(3):470--480, Aug. 2012.
+
+\bibitem{Naccache:2014gk}
+S.~N. Naccache, S.~Federman, N.~Veeraraghavan, M.~Zaharia, D.~Lee, E.~Samayoa,
+  J.~Bouquet, A.~L. Greninger, K.~C. Luk, B.~Enge, D.~A. Wadford, S.~L.
+  Messenger, G.~L. Genrich, K.~Pellegrino, G.~Grard, E.~Leroy, B.~S. Schneider,
+  J.~N. Fair, M.~A. Martinez, P.~Isa, J.~A. Crump, J.~L. DeRisi, T.~Sittler,
+  J.~Hackett, S.~Miller, and C.~Y. Chiu.
+\newblock {A cloud-compatible bioinformatics pipeline for ultrarapid pathogen
+  identification from next-generation sequencing of clinical samples}.
+\newblock {\em Genome Research}, 24(7):1180--1192, July 2014.
+
 \bibitem{Newman:2014ik}
 A.~M. Newman, S.~V. Bratman, J.~To, J.~F. Wynne, N.~C.~W. Eclov, L.~A. Modlin,
   C.~L. Liu, J.~W. Neal, H.~A. Wakelee, R.~E. Merritt, J.~B. Shrager, B.~W.
@@ -56,6 +90,12 @@ S.~I. O'Donoghue, A.-C. Gavin, N.~Gehlenborg, D.~S. Goodsell, J.-K.
 \newblock {Visualizing biological data---now and in the future}.
 \newblock {\em Nature Methods}, 7(3s):S2--S4, Mar. 2010.
 
+\bibitem{Prince:2014gx}
+A.~L. Prince, K.~M. Antony, D.~M. Chu, and K.~M. Aagaard.
+\newblock {The microbiome, parturition, and timing of birth: more questions
+  than answers}.
+\newblock {\em Journal of Reproductive Immunology}, 104-105:12--19, Oct. 2014.
+
 \bibitem{Quake:2012iy}
 S.~Quake.
 \newblock {Sizing Up Cell-Free DNA}.
@@ -65,6 +105,13 @@ S.~Quake.
 J.~Shendure and E.~L. Aiden.
 \newblock {The expanding scope of DNA sequencing}.
 \newblock {\em Nature Publishing Group}, 30(11):1084--1094, Nov. 2012.
+
+\bibitem{Snyder:2011gd}
+T.~M. Snyder, K.~K. Khush, H.~A. Valantine, and S.~R. Quake.
+\newblock {Universal noninvasive detection of solid organ transplant
+  rejection}.
+\newblock {\em Proceedings of the National Academy of Sciences}, page
+  201013924, 2011.
 
 \bibitem{Wilson:2014dv}
 M.~R. Wilson, S.~N. Naccache, E.~Samayoa, M.~Biagtan, H.~Bashir, G.~Yu, S.~M.
