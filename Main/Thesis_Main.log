@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  30 JAN 2015 17:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  31 JAN 2015 19:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -189,7 +189,8 @@ File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 )))
 (./Thesis_Main.aux (./abstract.aux) (./acknowledgment/acknowledgment.aux)
-(./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux) (./ch4/ch4.aux))
+(./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux) (./ch4/ch4.aux) (./ch5/ch5.aux)
+(./ch6/ch6.aux))
 \openout1 = `Thesis_Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -205,11 +206,9 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Try loading font information for T1+bch on input line 51.
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1bch.fd
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1bch.fd
 File: t1bch.fd 2004/10/18 font definitions for T1/bch.
-)
-(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+) (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
 \scratchdimen=\dimen127
@@ -319,35 +318,55 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
  [8
 
-] (./Thesis_Main.lof)
+] (./Thesis_Main.lof [9
+
+])
 \tf@lof=\write5
 \openout5 = `Thesis_Main.lof'.
 
 
-[9
-
-]
+[10]
 \openout2 = `ch1/ch1.aux'.
 
  (./ch1/ch1.tex
 Chapter 1.
+
+LaTeX Warning: Citation `Fournier:2013ew' on page 1 undefined on input line 14.
+
+
 [1
 
 
 
-] <Figures/Fig1.pdf, id=37, 663.47874pt x 469.755pt>
+]
+
+LaTeX Warning: Citation `Fournier:2013ew' on page 2 undefined on input line 16.
+
+
+<Figures/Fig1.pdf, id=40, 663.47874pt x 469.755pt>
 File: Figures/Fig1.pdf Graphic file (type pdf)
  <use Figures/Fig1.pdf>
 Package pdftex.def Info: Figures/Fig1.pdf used on input line 19.
 (pdftex.def)             Requested size: 331.73856pt x 234.87692pt.
 
-[2 <./Figures/Fig1.pdf>] <Figures/Fig2.pdf, id=52, 614.295pt x 794.97pt>
+[2 <./Figures/Fig1.pdf>] <Figures/Fig2.pdf, id=55, 614.295pt x 794.97pt>
 File: Figures/Fig2.pdf Graphic file (type pdf)
 
 <use Figures/Fig2.pdf>
 Package pdftex.def Info: Figures/Fig2.pdf used on input line 31.
 (pdftex.def)             Requested size: 307.14674pt x 397.48402pt.
- [3] [4 <./Figures/Fig2.pdf>] [5] [6]
+ [3] [4 <./Figures/Fig2.pdf>]
+
+LaTeX Warning: Citation `Naccache:2014gk' on page 5 undefined on input line 46.
+
+
+[5]
+Overfull \hbox (19.99936pt too wide) in paragraph at lines 56--57
+\T1/bch/m/n/12 project has high-light the im-por-tance of as-say-ing mi-cro-bia
+l pop-u-la-tions [[]]. Community-
+ []
+
+[6]
 Overfull \hbox (21.1595pt too wide) in paragraph at lines 64--65
 \T1/bch/m/n/12 throughput se-quence anal-y-sis (ChIP-Seq) for protein-DNA in-te
 r-ac-tions, high-throughput
@@ -364,31 +383,46 @@ ns-la-tion, par-al-lel anal-
 
  (./ch2/ch2.tex
 Chapter 2.
+
+LaTeX Warning: Citation `Newman:2014ik' on page 9 undefined on input line 5.
+
 [9
 
 
 
 ]
-Overfull \hbox (8.85133pt too wide) in paragraph at lines 13--13
-[]\T1/bch/b/n/17.28 Pipeline for cap-tur-ing mi-cro-biome in cell-free DNA 
- []
 
-[10] <Figures/Fig3.pdf, id=94, 728.7225pt x 439.6425pt>
+LaTeX Warning: Citation `Xia:2011it' on page 10 undefined on input line 13.
+
+<Figures/Fig3.pdf, id=94, 728.7225pt x 439.6425pt>
 File: Figures/Fig3.pdf Graphic file (type pdf)
  <use Figures/Fig3.pdf>
-Package pdftex.def Info: Figures/Fig3.pdf used on input line 20.
+Package pdftex.def Info: Figures/Fig3.pdf used on input line 18.
 (pdftex.def)             Requested size: 364.36035pt x 219.82071pt.
 
-[11 <./Figures/Fig3.pdf>] <Figures/Fig4.pdf, id=108, 1172.38pt x 328.22626pt>
+[10]
+
+LaTeX Warning: Citation `Naccache:2014gk' on page 11 undefined on input line 29
+.
+
+
+LaTeX Warning: Citation `Xia:2011it' on page 11 undefined on input line 31.
+
+[11 <./Figures/Fig3.pdf>] <Figures/Fig4.pdf, id=111, 1172.38pt x 328.22626pt>
 File: Figures/Fig4.pdf Graphic file (type pdf)
 
 <use Figures/Fig4.pdf>
-Package pdftex.def Info: Figures/Fig4.pdf used on input line 36.
+Package pdftex.def Info: Figures/Fig4.pdf used on input line 34.
 (pdftex.def)             Requested size: 586.18857pt x 164.11272pt.
- [12 <./Figures/Fig4.pdf>]
-<Figures/Fig5.pdf, id=122, 1018.80624pt x 682.55pt>
+
+
+LaTeX Warning: Citation `ODonoghue:2010bd' on page 12 undefined on input line 4
+1.
+
+[12 <./Figures/Fig4.pdf>] <Figures/Fig5.pdf, id=125, 1018.80624pt x 682.55pt>
 File: Figures/Fig5.pdf Graphic file (type pdf)
- <use Figures/Fig5.pdf>
+
+<use Figures/Fig5.pdf>
 Package pdftex.def Info: Figures/Fig5.pdf used on input line 46.
 (pdftex.def)             Requested size: 509.40187pt x 341.27417pt.
 
@@ -397,136 +431,266 @@ Overfull \hbox (4.25226pt too wide) in paragraph at lines 51--52
 ic scale (e.g., genus or species).
  []
 
-[13] [14 <./Figures/Fig5.pdf>]
-<Figures/Fig6.pdf, id=142, 1254.6875pt x 718.685pt>
+[13 <./Figures/Fig5.pdf>] <Figures/Fig6.pdf, id=139, 1254.6875pt x 718.685pt>
 File: Figures/Fig6.pdf Graphic file (type pdf)
- <use Figures/Fig6.pdf>
-Package pdftex.def Info: Figures/Fig6.pdf used on input line 54.
-(pdftex.def)             Requested size: 627.34222pt x 359.34161pt.
 
-[15 <./Figures/Fig6.pdf>]
+<use Figures/Fig6.pdf>
+Package pdftex.def Info: Figures/Fig6.pdf used on input line 60.
+(pdftex.def)             Requested size: 627.34222pt x 359.34161pt.
+ [14 <./Figures/Fig6.pdf>]
 <Figures/Fig7.pdf, id=156, 1253.68375pt x 799.98875pt>
 File: Figures/Fig7.pdf Graphic file (type pdf)
  <use Figures/Fig7.pdf>
-Package pdftex.def Info: Figures/Fig7.pdf used on input line 63.
+Package pdftex.def Info: Figures/Fig7.pdf used on input line 70.
 (pdftex.def)             Requested size: 626.84035pt x 399.9934pt.
 
-[16 <./Figures/Fig7.pdf>]
-<Figures/Fig8.pdf, id=172, 1241.63875pt x 759.83875pt>
+Overfull \hbox (3.03227pt too wide) in paragraph at lines 75--76
+[]\T1/bch/m/n/12 We then com-pute the map-ping po-si-tion of all reads within t
+he com-pos-ite genome.
+ []
+
+<Figures/Fig8.pdf, id=157, 1241.63875pt x 759.83875pt>
 File: Figures/Fig8.pdf Graphic file (type pdf)
  <use Figures/Fig8.pdf>
-Package pdftex.def Info: Figures/Fig8.pdf used on input line 71.
+Package pdftex.def Info: Figures/Fig8.pdf used on input line 78.
 (pdftex.def)             Requested size: 620.81786pt x 379.91844pt.
-)
-[17 <./Figures/Fig8.pdf>]
+
+
+LaTeX Warning: Citation `Kleines:2009gj' on page 15 undefined on input line 83.
+
+
+[15 <./Figures/Fig7.pdf>]) [16 <./Figures/Fig8.pdf>]
 \openout2 = `ch3/ch3.aux'.
 
  (./ch3/ch3.tex
 Chapter 3.
-[18
-
-
-
-] <Figures/Fig9.pdf, id=189, 994.71625pt x 616.3025pt>
+<Figures/Fig9.pdf, id=186, 994.71625pt x 616.3025pt>
 File: Figures/Fig9.pdf Graphic file (type pdf)
-
-<use Figures/Fig9.pdf>
-Package pdftex.def Info: Figures/Fig9.pdf used on input line 12.
+ <use Figures/Fig9.pdf>
+Package pdftex.def Info: Figures/Fig9.pdf used on input line 10.
 (pdftex.def)             Requested size: 497.3569pt x 308.1505pt.
- [19 <./Figures/Fig9.pdf>]
+
+[17
+
+
+
+]
+
+LaTeX Warning: Citation `Xia:2011it' on page 18 undefined on input line 17.
+
+
+Overfull \hbox (2.82675pt too wide) in paragraph at lines 17--18
+\T1/bch/m/n/12 sam-ple. We did this by first pro-cess-ing the BLAST data with a
+n al-go-rithm (GRAMMy)
+ []
+
+[18 <./Figures/Fig9.pdf>]
 <Figures/Fig10.pdf, id=203, 1130.2225pt x 430.60875pt>
 File: Figures/Fig10.pdf Graphic file (type pdf)
  <use Figures/Fig10.pdf>
-Package pdftex.def Info: Figures/Fig10.pdf used on input line 22.
+Package pdftex.def Info: Figures/Fig10.pdf used on input line 24.
 (pdftex.def)             Requested size: 565.10988pt x 215.30383pt.
 
-[20 <./Figures/Fig10.pdf>]
+[19 <./Figures/Fig10.pdf>]
 <Figures/Fig11.pdf, id=217, 879.285pt x 504.88625pt>
 File: Figures/Fig11.pdf Graphic file (type pdf)
  <use Figures/Fig11.pdf>
 Package pdftex.def Info: Figures/Fig11.pdf used on input line 36.
 (pdftex.def)             Requested size: 439.64143pt x 252.44249pt.
-)
-Overfull \hbox (0.22028pt too wide) in paragraph at lines 41--67
+
+[20 <./Figures/Fig11.pdf>])
+Overfull \hbox (0.22028pt too wide) in paragraph at lines 43--67
 \T1/bch/m/n/12 pathogens that were not rou-tinely screened, in-clud-ing ade-n-o
 virus and poly-omavirus
  []
 
-
-Overfull \hbox (33.80344pt too wide) in paragraph at lines 41--67
-\T1/bch/m/n/12 showed that hypothesis-free in-fec-tion mon-i-tor-ing re-vealed 
-nu-mer-ous un-tested pathogens,
- []
-
-
-Overfull \hbox (3.72182pt too wide) in paragraph at lines 41--67
-\T1/bch/m/n/12 in-clud-ing un-diagnosed cases of ade-n-ovirus, poly-omav-ius, H
-HV-8, and mi-crosporidia
- []
-
-[21] [22 <./Figures/Fig11.pdf>]
+[21]
 \openout2 = `ch4/ch4.aux'.
 
  (./ch4/ch4.tex
 Chapter 4.
-[23
+[22
 
 
 
-] [24] <Figures/Fig12.pdf, id=241, 996.72375pt x 310.15875pt>
+] <Figures/Fig12.pdf, id=238, 996.72375pt x 310.15875pt>
 File: Figures/Fig12.pdf Graphic file (type pdf)
 
 <use Figures/Fig12.pdf>
-Package pdftex.def Info: Figures/Fig12.pdf used on input line 19.
+Package pdftex.def Info: Figures/Fig12.pdf used on input line 16.
 (pdftex.def)             Requested size: 498.36066pt x 155.079pt.
- [25 <./Figures/Fig12.pdf>]
+ [23] [24 <./Figures/Fig12.pdf>]
 <Figures/Fig13.pdf, id=255, 814.04124pt x 447.6725pt>
 File: Figures/Fig13.pdf Graphic file (type pdf)
  <use Figures/Fig13.pdf>
-Package pdftex.def Info: Figures/Fig13.pdf used on input line 27.
+Package pdftex.def Info: Figures/Fig13.pdf used on input line 28.
 (pdftex.def)             Requested size: 407.01962pt x 223.8357pt.
 
-[26 <./Figures/Fig13.pdf>]
-<Figures/Fig14.pdf, id=269, 703.62875pt x 475.7775pt>
+<Figures/Fig14.pdf, id=256, 703.62875pt x 475.7775pt>
 File: Figures/Fig14.pdf Graphic file (type pdf)
  <use Figures/Fig14.pdf>
-Package pdftex.def Info: Figures/Fig14.pdf used on input line 35.
+Package pdftex.def Info: Figures/Fig14.pdf used on input line 36.
 (pdftex.def)             Requested size: 351.8135pt x 237.88815pt.
 
-[27 <./Figures/Fig14.pdf>] [28]) [29] (./Thesis_Main.bbl [30
+[25 <./Figures/Fig13.pdf>]
+<Figures/Fig14_2.png, id=270, 886.31125pt x 609.27625pt>
+File: Figures/Fig14_2.png Graphic file (type png)
+
+<use Figures/Fig14_2.png>
+Package pdftex.def Info: Figures/Fig14_2.png used on input line 48.
+(pdftex.def)             Requested size: 443.15454pt x 304.63737pt.
+ [26 <./Figures/Fig14.pdf>] [27 <./Figures/Fig14_2.png>]) [28]
+\openout2 = `ch5/ch5.aux'.
+
+ (./ch5/ch5.tex
+Chapter 5.
+
+LaTeX Warning: Citation `Lewis:2013bp' on page 29 undefined on input line 7.
 
 
-]
-Underfull \hbox (badness 1062) in paragraph at lines 69--77
-[]\T1/bch/m/n/12 S. N. Nac-cache, S. Fe-d-er-man, N. Veer-aragha-van, M. Za-har
-ia, D. Lee,
+Overfull \hbox (0.15538pt too wide) in paragraph at lines 7--8
+\T1/bch/m/n/12 ap-proach en-cour-aged sci-en-tists to de-velop chem-i-cals that
+ kill the spe-cific pathogens,
  []
 
-[31]) [32] (./Thesis_Main.aux (./abstract.aux)
-(./acknowledgment/acknowledgment.aux) (./ch1/ch1.aux) (./ch2/ch2.aux)
-(./ch3/ch3.aux) (./ch4/ch4.aux)) ) 
+
+Overfull \hbox (3.09143pt too wide) in paragraph at lines 7--8
+\T1/bch/m/n/12 start-ing with Ehrlich± "magic bul-let" against syphilis (ar-sph
+enamine) in 1910. Within
+ []
+
+[29
+
+
+
+] [30]
+
+LaTeX Warning: Citation `Wilson:2014ba' on page 31 undefined on input line 27.
+
+
+LaTeX Warning: Citation `Wilson:2014ba' on page 31 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Wilson:2014ba' on page 31 undefined on input line 33.
+
+[31]
+
+LaTeX Warning: Citation `Wilson:2014ba' on page 32 undefined on input line 35.
+
+
+Overfull \hbox (4.02347pt too wide) in paragraph at lines 45--46
+\T1/bch/m/n/12 with strin-gent pu-rifi-ca-tion steps, UV cross-linking im-muno-
+pre-cip-i-ta-tion and se-quenc-
+ []
+
+[32] <Figures/Fig15.pdf, id=306, 576.1525pt x 618.31pt>
+File: Figures/Fig15.pdf Graphic file (type pdf)
+
+<use Figures/Fig15.pdf>
+Package pdftex.def Info: Figures/Fig15.pdf used on input line 48.
+(pdftex.def)             Requested size: 288.07553pt x 309.15424pt.
+ [33 <./Figures/Fig15.pdf>] [34]
+<Figures/Fig16.pdf, id=324, 539.01375pt x 335.2525pt>
+File: Figures/Fig16.pdf Graphic file (type pdf)
+ <use Figures/Fig16.pdf>
+Package pdftex.def Info: Figures/Fig16.pdf used on input line 70.
+(pdftex.def)             Requested size: 269.50621pt x 167.62584pt.
+
+[35 <./Figures/Fig16.pdf>] <Figures/Fig17.pdf, id=339, 653.44125pt x 441.65pt>
+File: Figures/Fig17.pdf Graphic file (type pdf)
+
+<use Figures/Fig17.pdf>
+Package pdftex.def Info: Figures/Fig17.pdf used on input line 78.
+(pdftex.def)             Requested size: 326.71982pt x 220.82445pt.
+ [36 <./Figures/Fig17.pdf>]
+<Figures/Fig18.pdf, id=353, 1012.78375pt x 320.19624pt>
+File: Figures/Fig18.pdf Graphic file (type pdf)
+
+<use Figures/Fig18.pdf>
+Package pdftex.def Info: Figures/Fig18.pdf used on input line 88.
+(pdftex.def)             Requested size: 506.39064pt x 160.09772pt.
+) [37 <./Figures/Fig18.pdf>] [38]
+\openout2 = `ch6/ch6.aux'.
+
+ (./ch6/ch6.tex
+Chapter 6.
+<Figures/Fig19.pdf, id=370, 924.45375pt x 582.175pt>
+File: Figures/Fig19.pdf Graphic file (type pdf)
+ <use Figures/Fig19.pdf>
+Package pdftex.def Info: Figures/Fig19.pdf used on input line 6.
+(pdftex.def)             Requested size: 462.22574pt x 291.08679pt.
+
+Overfull \hbox (5.10591pt too wide) in paragraph at lines 13--14
+[]\T1/bch/m/n/12 An al-ter-na-tive path-way, called in-ter-nal trans-la-tion in
+i-ti-a-tion, is a cap-independent
+ []
+
+
+Overfull \hbox (3.75302pt too wide) in paragraph at lines 13--14
+\T1/bch/m/n/12 mech-a-nism of re-cruit-ing, po-si-tion-ing, and ac-ti-vat-ing t
+he eu-kary-otic protein-synthesis
+ []
+
+[39
+
+
+
+] <Figures/Fig20.png, id=375, 311.1625pt x 341.275pt>
+File: Figures/Fig20.png Graphic file (type png)
+
+<use Figures/Fig20.png>
+Package pdftex.def Info: Figures/Fig20.png used on input line 20.
+(pdftex.def)             Requested size: 155.58087pt x 170.63707pt.
+ [40 <./Figures/Fig19.pdf>] [41 <./Figures/Fig20.png>]
+<Figures/Fig21.pdf, id=393, 699.61375pt x 587.19376pt>
+File: Figures/Fig21.pdf Graphic file (type pdf)
+ <use Figures/Fig21.pdf>
+Package pdftex.def Info: Figures/Fig21.pdf used on input line 33.
+(pdftex.def)             Requested size: 349.80602pt x 293.59616pt.
+
+[42 <./Figures/Fig21.pdf>]
+<Figures/Fig22.png, id=407, 379.4175pt x 426.59375pt>
+File: Figures/Fig22.png Graphic file (type png)
+ <use Figures/Fig22.png>
+Package pdftex.def Info: Figures/Fig22.png used on input line 41.
+(pdftex.def)             Requested size: 189.70828pt x 213.29634pt.
+
+[43 <./Figures/Fig22.png>]) [44] (./Thesis_Main.bbl [45
+
+
+] [46]) [47]
+(./Thesis_Main.aux (./abstract.aux) (./acknowledgment/acknowledgment.aux)
+(./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux) (./ch4/ch4.aux) (./ch5/ch5.aux)
+(./ch6/ch6.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3211 strings out of 493117
- 42480 string characters out of 6135433
- 100697 words of memory out of 5000000
- 6525 multiletter control sequences out of 15000+600000
+ 3297 strings out of 493117
+ 43830 string characters out of 6135433
+ 101388 words of memory out of 5000000
+ 6586 multiletter control sequences out of 15000+600000
  36690 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,26p,1472b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc
-/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/bitstrea/cha
-rter/bchb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/bitstrea/charte
-r/bchr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/bitstrea/charter/b
-chr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/bitstrea/charter/bchr
-i8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
-b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
->
-Output written on Thesis_Main.pdf (41 pages, 1916706 bytes).
+ 38i,8n,26p,1157b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Thesis_Main.pdf (57 pages, 2785174 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
+ 459 PDF objects out of 1000 (max. 8388607)
+ 301 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 

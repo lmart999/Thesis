@@ -12,15 +12,32 @@
 \contentsline {subsection}{\numberline {1.3.1}Informatics: A new paradigm for NGS-based diagnostics}{8}
 \contentsline {subsection}{\numberline {1.3.2}Mechanism: A new strategy for mechanistic studies}{8}
 \contentsline {chapter}{\numberline {2}Infectome pipeline}{9}
-\contentsline {section}{\numberline {2.1}Human microbiome in cell-free DNA}{9}
-\contentsline {section}{\numberline {2.2}Pipeline for capturing microbiome in cell-free DNA}{10}
-\contentsline {chapter}{\numberline {3}Clinical validation}{18}
-\contentsline {section}{\numberline {3.1}Organ transplantation}{18}
-\contentsline {section}{\numberline {3.2}Deep tissues}{21}
-\contentsline {section}{\numberline {3.3}Untested infections}{21}
-\contentsline {chapter}{\numberline {4}The cell-free microbiome}{23}
-\contentsline {section}{\numberline {4.1}Importance of the microbiome}{23}
-\contentsline {section}{\numberline {4.2}Linking blood and body sites}{24}
-\contentsline {section}{\numberline {4.3}Coupling between blood and body sites}{27}
+\contentsline {section}{\numberline {2.1}Cell-free DNA}{9}
+\contentsline {section}{\numberline {2.2}Pipeline for the cell-free microbiome}{10}
+\contentsline {chapter}{\numberline {3}Clinical validation of the infectome}{17}
+\contentsline {section}{\numberline {3.1}Organ transplantation}{17}
+\contentsline {section}{\numberline {3.2}Deep tissues}{19}
+\contentsline {section}{\numberline {3.3}Untested infections}{20}
+\contentsline {chapter}{\numberline {4}The blood microbiome}{22}
+\contentsline {section}{\numberline {4.1}Importance of the microbiome}{22}
+\contentsline {section}{\numberline {4.2}Linking blood and body sites}{22}
+\contentsline {section}{\numberline {4.3}Coupling between blood and body sites}{25}
 \contentsline {section}{\numberline {4.4}Summary}{28}
-\contentsline {chapter}{Bibliography}{30}
+\contentsline {chapter}{\numberline {5}Sequencing to explore mechanism}{29}
+\contentsline {section}{\numberline {5.1}Therapeutics}{29}
+\contentsline {subsection}{\numberline {5.1.1}Antibiotics}{29}
+\contentsline {subsection}{\numberline {5.1.2}Antivirals}{30}
+\contentsline {subsection}{\numberline {5.1.3}The challenge}{30}
+\contentsline {section}{\numberline {5.2}Mechanism}{31}
+\contentsline {subsection}{\numberline {5.2.1}The case for mechanistic studies}{31}
+\contentsline {subsection}{\numberline {5.2.2}The importance of molecular interactions}{31}
+\contentsline {section}{\numberline {5.3}RNA-protein interactions}{32}
+\contentsline {section}{\numberline {5.4}CLIP pipeline}{32}
+\contentsline {subsection}{\numberline {5.4.1}Philosophy}{32}
+\contentsline {section}{\numberline {5.5}CLIP pipeline applications}{34}
+\contentsline {subsection}{\numberline {5.5.1}Application to DDX21}{34}
+\contentsline {subsection}{\numberline {5.5.2}Summary}{38}
+\contentsline {chapter}{\numberline {6}Infectious disease mechanism}{39}
+\contentsline {section}{\numberline {6.1}HCV}{40}
+\contentsline {section}{\numberline {6.2}Retroviruses}{44}
+\contentsline {chapter}{Bibliography}{45}

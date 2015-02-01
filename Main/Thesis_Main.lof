@@ -4,15 +4,26 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Isolation of non-human cell-free DNA.}}{11}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Django application for infectome data.}}{12}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Cohort data}}{14}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Patient data}}{15}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Infectione timeseries and coverage}}{16}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Clinical use of infectome application}}{17}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Cohort view in the infectome application.}}{13}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Patient view in the infectome application.}}{14}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Infection view in the infectome application.}}{15}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Clinical use of infectome application}}{16}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Clinical correlations on viruses}}{19}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Clinical correlations with deep tissue sampling}}{20}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Clinical correlations on viruses}}{22}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Clinical correlations on viruses.}}{18}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Clinical correlations with deep tissue sampling}}{19}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Clinical correlations on viruses}}{20}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Composition of the blood microbiome}}{25}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Detection of body site specific bacteria in blood}}{26}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces }}{27}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Composition of the blood microbiome}}{24}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Detection of body site specific bacteria in blood.}}{25}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Likely sources for most abundant bacteria detected in blood.}}{26}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Residuals from linear regression.}}{27}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces CLIP analysis workflow.}}{33}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Bound classes of RNAs to DDX21.}}{35}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The snoRNA binding profile of DDX21.}}{36}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The rRNA binding profile of DDX21.}}{37}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Different modes of translation.}}{40}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces CLIP applied to HCV virus.}}{41}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces PCBP binding profile on the HCV genome.}}{42}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Models for PCBP and HCV infection.}}{43}

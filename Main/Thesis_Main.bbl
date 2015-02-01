@@ -16,6 +16,17 @@ J.~M. Brenchley and D.~C. Douek.
 \newblock {Microbial Translocation Across the GI Tract *}.
 \newblock {\em Annual Review of Immunology}, 30(1):149--173, Apr. 2012.
 
+\bibitem{Calo:2014ix}
+E.~Calo, R.~A. Flynn, L.~Martin, R.~C. Spitale, H.~Y. Chang, and J.~Wysocka.
+\newblock {RNA helicase DDX21 coordinates transcription and ribosomal RNA
+  processing}.
+\newblock {\em Nature}, pages 1--17, Nov. 2014.
+
+\bibitem{Clercq:2004ba}
+E.~D. Clercq.
+\newblock {Antivirals and antiviral strategies}.
+\newblock {\em Nature Reviews Microbiology}, 2(9):704--720, Sept. 2004.
+
 \bibitem{Consortium:2012bb}
 T.~H. M.~P. Consortium.
 \newblock {Structure, function and diversity of the healthy human microbiome}.
@@ -41,21 +52,40 @@ A.~S. Fauci and D.~M. Morens.
 \newblock {The perpetual challenge of infectious diseases}.
 \newblock {\em The New England journal of medicine}, 366(5):454--461, 2012.
 
-\bibitem{Fournier:2013ew}
-P.-E. Fournier, M.~Drancourt, P.~Colson, J.-M. Rolain, B.~La~Scola, and
-  D.~Raoult.
-\newblock {Modern clinical microbiology: new challenges and solutions}.
-\newblock {\em Nature Reviews Microbiology}, 11(8):574--585, Aug. 2013.
+\bibitem{Flynn:2014bi}
+R.~A. Flynn, L.~Martin, R.~C. Spitale, B.~T. Do, S.~M. Sagan, B.~Zarnegar,
+  K.~Qu, P.~A. Khavari, S.~R. Quake, P.~Sarnow, and H.~Y. Chang.
+\newblock {Dissecting noncoding and pathogen RNA--protein interactomes}.
+\newblock {\em Rna-a Publication of the Rna Society}, 21(1):135--143, Dec.
+  2014.
 
 \bibitem{Fox:2014fj}
 J.~L. Fox.
 \newblock {Technology comes to typing}.
 \newblock {\em Nature Biotechnology}, 32(11):1081--1084, Nov. 2014.
 
+\bibitem{Fraser:2006kn}
+C.~S. Fraser and J.~A. Doudna.
+\newblock {Structural and mechanistic insights into hepatitis C viral
+  translation initiation}.
+\newblock {\em Nature Reviews Microbiology}, 5(1):29--38, Nov. 2006.
+
+\bibitem{GarciaSastre:2013ko}
+A.~Garcia-Sastre and M.~J. Evans.
+\newblock {miR-122 is more than a shield for the hepatitis C virus genome}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(5):1571--1572, Jan. 2013.
+
 \bibitem{Hunter:2007ux}
 J.~D. Hunter.
 \newblock {Matplotlib: A 2D graphics environment}.
 \newblock {\em Computing in Science {\&} Engineering}, 9(3):0090--0095, 2007.
+
+\bibitem{Konig:2012ww}
+J.~K{\"o}nig, K.~Zarnack, N.~M. Luscombe, and J.~Ule.
+\newblock {Protein--RNA interactions: new genomic technologies and
+  perspectives}.
+\newblock {\em Nature Reviews Genetics}, 13(2):77--83, 2012.
 
 \bibitem{Koren:2012ji}
 O.~Koren, J.~K. Goodrich, T.~C. Cullender, A.~Spor, K.~Laitinen,
@@ -65,30 +95,10 @@ O.~Koren, J.~K. Goodrich, T.~C. Cullender, A.~Spor, K.~Laitinen,
   Pregnancy}.
 \newblock {\em Cell}, 150(3):470--480, Aug. 2012.
 
-\bibitem{Naccache:2014gk}
-S.~N. Naccache, S.~Federman, N.~Veeraraghavan, M.~Zaharia, D.~Lee, E.~Samayoa,
-  J.~Bouquet, A.~L. Greninger, K.~C. Luk, B.~Enge, D.~A. Wadford, S.~L.
-  Messenger, G.~L. Genrich, K.~Pellegrino, G.~Grard, E.~Leroy, B.~S. Schneider,
-  J.~N. Fair, M.~A. Martinez, P.~Isa, J.~A. Crump, J.~L. DeRisi, T.~Sittler,
-  J.~Hackett, S.~Miller, and C.~Y. Chiu.
-\newblock {A cloud-compatible bioinformatics pipeline for ultrarapid pathogen
-  identification from next-generation sequencing of clinical samples}.
-\newblock {\em Genome Research}, 24(7):1180--1192, July 2014.
-
-\bibitem{Newman:2014ik}
-A.~M. Newman, S.~V. Bratman, J.~To, J.~F. Wynne, N.~C.~W. Eclov, L.~A. Modlin,
-  C.~L. Liu, J.~W. Neal, H.~A. Wakelee, R.~E. Merritt, J.~B. Shrager, B.~W.
-  Loo, A.~A. Alizadeh, and M.~Diehn.
-\newblock {An ultrasensitive method for quantitating circulating tumor DNA with
-  broad patient coverage}.
-\newblock {\em Nature Medicine}, pages 1--9, Apr. 2014.
-
-\bibitem{ODonoghue:2010bd}
-S.~I. O'Donoghue, A.-C. Gavin, N.~Gehlenborg, D.~S. Goodsell, J.-K.
-  H{\'e}rich{\'e}, C.~B. Nielsen, C.~North, A.~J. Olson, J.~B. Procter, D.~W.
-  Shattuck, T.~Walter, and B.~Wong.
-\newblock {Visualizing biological data---now and in the future}.
-\newblock {\em Nature Methods}, 7(3s):S2--S4, Mar. 2010.
+\bibitem{Lauring:2013iq}
+A.~S. Lauring, J.~Frydman, and R.~Andino.
+\newblock {The role of mutational robustness in RNA virus evolution}.
+\newblock {\em Nature Reviews Microbiology}, pages 1--10, Mar. 2013.
 
 \bibitem{Prince:2014gx}
 A.~L. Prince, K.~M. Antony, D.~M. Chu, and K.~M. Aagaard.
@@ -113,6 +123,11 @@ T.~M. Snyder, K.~K. Khush, H.~A. Valantine, and S.~R. Quake.
 \newblock {\em Proceedings of the National Academy of Sciences}, page
   201013924, 2011.
 
+\bibitem{Walsh:2011kt}
+D.~Walsh and I.~Mohr.
+\newblock {Viral subversion of the host protein synthesis machinery}.
+\newblock {\em Nature Reviews Microbiology}, 9(12):860--875, Oct. 2011.
+
 \bibitem{Wilson:2014dv}
 M.~R. Wilson, S.~N. Naccache, E.~Samayoa, M.~Biagtan, H.~Bashir, G.~Yu, S.~M.
   Salamat, S.~Somasekar, S.~Federman, S.~Miller, R.~Sokolic, E.~Garabedian,
@@ -122,10 +137,11 @@ M.~R. Wilson, S.~N. Naccache, E.~Samayoa, M.~Biagtan, H.~Bashir, G.~Yu, S.~M.
   Sequencing}.
 \newblock {\em New England Journal of Medicine}, 370(25):2408--2417, June 2014.
 
-\bibitem{Xia:2011it}
-L.~C. Xia, J.~A. Cram, T.~Chen, J.~A. Fuhrman, and F.~Sun.
-\newblock {Accurate Genome Relative Abundance Estimation Based on Shotgun
-  Metagenomic Reads}.
-\newblock {\em PloS one}, 6(12):e27992, Dec. 2011.
+\bibitem{Zarnack:2013iv}
+K.~Zarnack, J.~K{\"o}nig, M.~Tajnik, I.~Martincorena, S.~Eustermann,
+  I.~St{\'e}vant, A.~Reyes, S.~Anders, N.~M. Luscombe, and J.~Ule.
+\newblock {Direct Competition between hnRNP C and U2AF65 Protects the
+  Transcriptome from the Exonization of Alu Elements}.
+\newblock {\em Cell}, 152(3):453--466, Jan. 2013.
 
 \end{thebibliography}
