@@ -5,38 +5,38 @@
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Isolation of non-human cell-free DNA.}}{11}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Django application for infectome data.}}{12}
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Cohort view in the infectome application.}}{13}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Patient view in the infectome application.}}{14}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Patient view in the infectome application.}}{15}
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Infection view in the infectome application.}}{15}
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Clinical use of infectome application}}{16}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Clinical correlations on viruses.}}{18}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Clinical correlations on bacteria and fungi.}}{19}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Clinical correlations across sample types.}}{21}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Clinical correlations with deep tissue sampling}}{22}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Clinical correlations on viruses}}{23}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Clinical correlations on viruses.}}{19}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Clinical correlations on bacteria and fungi.}}{20}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Clinical correlations across sample types.}}{22}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Clinical correlations with deep tissue sampling}}{23}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Clinical correlations on viruses}}{24}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Composition of the blood microbiome}}{27}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Detection of body site specific bacteria in blood.}}{28}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Likely sources for most abundant bacteria detected in blood.}}{29}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Residuals from linear regression.}}{30}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Composition of the blood microbiome}}{28}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Detection of body site specific bacteria in blood.}}{29}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Likely sources for most abundant bacteria detected in blood.}}{30}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Residuals from linear regression.}}{31}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces CLIP analysis workflow.}}{36}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Bound classes of RNAs to DDX21.}}{38}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces The snoRNA binding profile of DDX21.}}{39}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces The rRNA binding profile of DDX21.}}{40}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces CLIP analysis workflow.}}{37}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Bound classes of RNAs to DDX21.}}{39}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The snoRNA binding profile of DDX21.}}{40}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The rRNA binding profile of DDX21.}}{41}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Different modes of translation.}}{43}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces CLIP applied to HCV virus.}}{44}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces PCBP binding profile on the HCV genome.}}{45}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Models for PCBP and HCV infection.}}{46}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces CLIP applied to viral proteins.}}{47}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Two functional regimes for retroviruses.}}{48}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces HERV-K is expressed in the naive human embryo.}}{49}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Rec binds the 3$'$ UTR of HERV-K in the naive human embryo.}}{50}
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Retrovirals products in human embryo.}}{51}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Different modes of translation.}}{44}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces CLIP applied to HCV virus.}}{45}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces PCBP binding profile on the HCV genome.}}{46}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Models for PCBP and HCV infection.}}{47}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces CLIP applied to viral proteins.}}{48}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Two functional regimes for retroviruses.}}{49}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces HERV-K is expressed in the naive human embryo.}}{50}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Rec binds the 3$'$ UTR of HERV-K in the naive human embryo.}}{51}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Retrovirals products in human embryo.}}{52}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces MITOMI assay design.}}{53}
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Multiplexed measurement of affinity.}}{54}
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Function RNA motifs.}}{55}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces MITOMI assay design.}}{54}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Multiplexed measurement of affinity.}}{55}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Function RNA motifs.}}{56}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {8.1}{\ignorespaces Molecular counting applied to chromosomes.}}{57}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Molecular counting applied to chromosomes.}}{58}

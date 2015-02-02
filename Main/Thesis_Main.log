@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 FEB 2015 12:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 FEB 2015 12:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -406,10 +406,10 @@ File: Figures/Fig6.pdf Graphic file (type pdf)
 <use Figures/Fig6.pdf>
 Package pdftex.def Info: Figures/Fig6.pdf used on input line 60.
 (pdftex.def)             Requested size: 627.34222pt x 359.34161pt.
- [14 <./Figures/Fig6.pdf>]
-<Figures/Fig7.pdf, id=164, 1253.68375pt x 799.98875pt>
+ <Figures/Fig7.pdf, id=148, 1253.68375pt x 799.98875pt>
 File: Figures/Fig7.pdf Graphic file (type pdf)
- <use Figures/Fig7.pdf>
+
+<use Figures/Fig7.pdf>
 Package pdftex.def Info: Figures/Fig7.pdf used on input line 70.
 (pdftex.def)             Requested size: 626.84035pt x 399.9934pt.
 
@@ -418,24 +418,25 @@ Overfull \hbox (3.03227pt too wide) in paragraph at lines 75--76
 he com-pos-ite genome.
  []
 
-<Figures/Fig8.pdf, id=165, 1241.63875pt x 759.83875pt>
+[14] [15 <./Figures/Fig6.pdf> <./Figures/Fig7.pdf>]
+<Figures/Fig8.pdf, id=179, 1241.63875pt x 759.83875pt>
 File: Figures/Fig8.pdf Graphic file (type pdf)
  <use Figures/Fig8.pdf>
 Package pdftex.def Info: Figures/Fig8.pdf used on input line 78.
 (pdftex.def)             Requested size: 620.81786pt x 379.91844pt.
 
-[15 <./Figures/Fig7.pdf>]) [16 <./Figures/Fig8.pdf>]
+[16 <./Figures/Fig8.pdf>]) [17]
 \openout2 = `ch3/ch3.aux'.
 
  (./ch3/ch3.tex
 Chapter 3.
-<Figures/Fig9.pdf, id=193, 994.71625pt x 616.3025pt>
+<Figures/Fig9.pdf, id=196, 994.71625pt x 616.3025pt>
 File: Figures/Fig9.pdf Graphic file (type pdf)
  <use Figures/Fig9.pdf>
 Package pdftex.def Info: Figures/Fig9.pdf used on input line 10.
 (pdftex.def)             Requested size: 497.3569pt x 308.1505pt.
 
-[17
+[18
 
 
 
@@ -445,74 +446,74 @@ Overfull \hbox (2.82675pt too wide) in paragraph at lines 17--18
 n al-go-rithm (GRAMMy)
  []
 
-<Figures/Fig9_1.pdf, id=197, 661.47125pt x 635.37375pt>
+<Figures/Fig9_1.pdf, id=200, 661.47125pt x 635.37375pt>
 File: Figures/Fig9_1.pdf Graphic file (type pdf)
 
 <use Figures/Fig9_1.pdf>
 Package pdftex.def Info: Figures/Fig9_1.pdf used on input line 20.
 (pdftex.def)             Requested size: 330.73482pt x 317.6861pt.
- [18 <./Figures/Fig9.pdf>] [19 <./Figures/Fig9_1.pdf>]
-<Figures/Fig9_2.png, id=225, 722.7pt x 481.8pt>
+ [19 <./Figures/Fig9.pdf>] [20 <./Figures/Fig9_1.pdf>]
+<Figures/Fig9_2.png, id=228, 722.7pt x 481.8pt>
 File: Figures/Fig9_2.png Graphic file (type png)
  <use Figures/Fig9_2.png>
 Package pdftex.def Info: Figures/Fig9_2.png used on input line 32.
 (pdftex.def)             Requested size: 361.3491pt x 240.8994pt.
 
-[20] [21 <./Figures/Fig9_2.png>]
-<Figures/Fig10.pdf, id=234, 1130.2225pt x 430.60875pt>
+[21] [22 <./Figures/Fig9_2.png>]
+<Figures/Fig10.pdf, id=237, 1130.2225pt x 430.60875pt>
 File: Figures/Fig10.pdf Graphic file (type pdf)
  <use Figures/Fig10.pdf>
 Package pdftex.def Info: Figures/Fig10.pdf used on input line 40.
 (pdftex.def)             Requested size: 565.10988pt x 215.30383pt.
 
-<Figures/Fig11.pdf, id=235, 879.285pt x 504.88625pt>
+<Figures/Fig11.pdf, id=238, 879.285pt x 504.88625pt>
 File: Figures/Fig11.pdf Graphic file (type pdf)
  <use Figures/Fig11.pdf>
 Package pdftex.def Info: Figures/Fig11.pdf used on input line 52.
 (pdftex.def)             Requested size: 439.64143pt x 252.44249pt.
 
-[22 <./Figures/Fig10.pdf>])
+[23 <./Figures/Fig10.pdf>])
 Overfull \hbox (0.22028pt too wide) in paragraph at lines 59--67
 \T1/bch/m/n/12 pathogens that were not rou-tinely screened, in-clud-ing ade-n-o
 virus and poly-omavirus
  []
 
-[23 <./Figures/Fig11.pdf>] [24]
+[24 <./Figures/Fig11.pdf>] [25]
 \openout2 = `ch4/ch4.aux'.
 
  (./ch4/ch4.tex
 Chapter 4.
-[25
+[26
 
 
 
-] <Figures/Fig12.pdf, id=269, 996.72375pt x 310.15875pt>
+] <Figures/Fig12.pdf, id=272, 996.72375pt x 310.15875pt>
 File: Figures/Fig12.pdf Graphic file (type pdf)
 
 <use Figures/Fig12.pdf>
 Package pdftex.def Info: Figures/Fig12.pdf used on input line 16.
 (pdftex.def)             Requested size: 498.36066pt x 155.079pt.
- [26] [27 <./Figures/Fig12.pdf>]
-<Figures/Fig13.pdf, id=286, 814.04124pt x 447.6725pt>
+ [27] [28 <./Figures/Fig12.pdf>]
+<Figures/Fig13.pdf, id=289, 814.04124pt x 447.6725pt>
 File: Figures/Fig13.pdf Graphic file (type pdf)
  <use Figures/Fig13.pdf>
 Package pdftex.def Info: Figures/Fig13.pdf used on input line 28.
 (pdftex.def)             Requested size: 407.01962pt x 223.8357pt.
 
-<Figures/Fig14.pdf, id=287, 703.62875pt x 475.7775pt>
+<Figures/Fig14.pdf, id=290, 703.62875pt x 475.7775pt>
 File: Figures/Fig14.pdf Graphic file (type pdf)
  <use Figures/Fig14.pdf>
 Package pdftex.def Info: Figures/Fig14.pdf used on input line 36.
 (pdftex.def)             Requested size: 351.8135pt x 237.88815pt.
 
-[28 <./Figures/Fig13.pdf>]
-<Figures/Fig14_2.png, id=301, 886.31125pt x 609.27625pt>
+[29 <./Figures/Fig13.pdf>]
+<Figures/Fig14_2.png, id=304, 886.31125pt x 609.27625pt>
 File: Figures/Fig14_2.png Graphic file (type png)
 
 <use Figures/Fig14_2.png>
 Package pdftex.def Info: Figures/Fig14_2.png used on input line 48.
 (pdftex.def)             Requested size: 443.15454pt x 304.63737pt.
- [29 <./Figures/Fig14.pdf>] [30 <./Figures/Fig14_2.png>]) [31]
+ [30 <./Figures/Fig14.pdf>] [31 <./Figures/Fig14_2.png>]) [32]
 \openout2 = `ch5/ch5.aux'.
 
  (./ch5/ch5.tex
@@ -529,48 +530,48 @@ Overfull \hbox (3.09143pt too wide) in paragraph at lines 7--8
 enamine) in 1910. Within
  []
 
-[32
+[33
 
 
 
-] [33] [34]
+] [34] [35]
 Overfull \hbox (4.02347pt too wide) in paragraph at lines 45--46
 \T1/bch/m/n/12 with strin-gent pu-rifi-ca-tion steps, UV cross-linking im-muno-
 pre-cip-i-ta-tion and se-quenc-
  []
 
-[35] <Figures/Fig15.pdf, id=336, 576.1525pt x 618.31pt>
+[36] <Figures/Fig15.pdf, id=339, 576.1525pt x 618.31pt>
 File: Figures/Fig15.pdf Graphic file (type pdf)
 
 <use Figures/Fig15.pdf>
 Package pdftex.def Info: Figures/Fig15.pdf used on input line 48.
 (pdftex.def)             Requested size: 288.07553pt x 309.15424pt.
- [36 <./Figures/Fig15.pdf>] [37]
-<Figures/Fig16.pdf, id=354, 539.01375pt x 335.2525pt>
+ [37 <./Figures/Fig15.pdf>] [38]
+<Figures/Fig16.pdf, id=357, 539.01375pt x 335.2525pt>
 File: Figures/Fig16.pdf Graphic file (type pdf)
  <use Figures/Fig16.pdf>
 Package pdftex.def Info: Figures/Fig16.pdf used on input line 70.
 (pdftex.def)             Requested size: 269.50621pt x 167.62584pt.
 
-[38 <./Figures/Fig16.pdf>] <Figures/Fig17.pdf, id=368, 653.44125pt x 441.65pt>
+[39 <./Figures/Fig16.pdf>] <Figures/Fig17.pdf, id=371, 653.44125pt x 441.65pt>
 File: Figures/Fig17.pdf Graphic file (type pdf)
 
 <use Figures/Fig17.pdf>
 Package pdftex.def Info: Figures/Fig17.pdf used on input line 78.
 (pdftex.def)             Requested size: 326.71982pt x 220.82445pt.
- [39 <./Figures/Fig17.pdf>]
-<Figures/Fig18.pdf, id=382, 1012.78375pt x 320.19624pt>
+ [40 <./Figures/Fig17.pdf>]
+<Figures/Fig18.pdf, id=385, 1012.78375pt x 320.19624pt>
 File: Figures/Fig18.pdf Graphic file (type pdf)
 
 <use Figures/Fig18.pdf>
 Package pdftex.def Info: Figures/Fig18.pdf used on input line 88.
 (pdftex.def)             Requested size: 506.39064pt x 160.09772pt.
-) [40 <./Figures/Fig18.pdf>] [41]
+) [41 <./Figures/Fig18.pdf>] [42]
 \openout2 = `ch6/ch6.aux'.
 
  (./ch6/ch6.tex
 Chapter 6.
-<Figures/Fig19.pdf, id=399, 924.45375pt x 582.175pt>
+<Figures/Fig19.pdf, id=402, 924.45375pt x 582.175pt>
 File: Figures/Fig19.pdf Graphic file (type pdf)
  <use Figures/Fig19.pdf>
 Package pdftex.def Info: Figures/Fig19.pdf used on input line 6.
@@ -587,124 +588,124 @@ Overfull \hbox (3.75302pt too wide) in paragraph at lines 13--14
 he eu-kary-otic protein-synthesis
  []
 
-[42
+[43
 
 
 
-] <Figures/Fig20.png, id=403, 311.1625pt x 341.275pt>
+] <Figures/Fig20.png, id=407, 311.1625pt x 341.275pt>
 File: Figures/Fig20.png Graphic file (type png)
 
 <use Figures/Fig20.png>
 Package pdftex.def Info: Figures/Fig20.png used on input line 20.
 (pdftex.def)             Requested size: 155.58087pt x 170.63707pt.
- [43 <./Figures/Fig19.pdf>] [44 <./Figures/Fig20.png>]
-<Figures/Fig21.pdf, id=422, 699.61375pt x 587.19376pt>
+ [44 <./Figures/Fig19.pdf>] [45 <./Figures/Fig20.png>]
+<Figures/Fig21.pdf, id=425, 699.61375pt x 587.19376pt>
 File: Figures/Fig21.pdf Graphic file (type pdf)
  <use Figures/Fig21.pdf>
 Package pdftex.def Info: Figures/Fig21.pdf used on input line 33.
 (pdftex.def)             Requested size: 349.80602pt x 293.59616pt.
 
-[45 <./Figures/Fig21.pdf>]
-<Figures/Fig22.png, id=436, 379.4175pt x 426.59375pt>
+[46 <./Figures/Fig21.pdf>]
+<Figures/Fig22.png, id=439, 379.4175pt x 426.59375pt>
 File: Figures/Fig22.png Graphic file (type png)
  <use Figures/Fig22.png>
 Package pdftex.def Info: Figures/Fig22.png used on input line 41.
 (pdftex.def)             Requested size: 189.70828pt x 213.29634pt.
 
-[46 <./Figures/Fig22.png>]
-<Figures/Fig23.pdf, id=441, 651.43375pt x 272.01625pt>
+[47 <./Figures/Fig22.png>]
+<Figures/Fig23.pdf, id=444, 651.43375pt x 272.01625pt>
 File: Figures/Fig23.pdf Graphic file (type pdf)
  <use Figures/Fig23.pdf>
 Package pdftex.def Info: Figures/Fig23.pdf used on input line 55.
 (pdftex.def)             Requested size: 325.71606pt x 136.00778pt.
 
-[47 <./Figures/Fig23.pdf>] <Figures/Fig24.pdf, id=455, 819.06pt x 315.1775pt>
+[48 <./Figures/Fig23.pdf>] <Figures/Fig24.pdf, id=458, 819.06pt x 315.1775pt>
 File: Figures/Fig24.pdf Graphic file (type pdf)
 
 <use Figures/Fig24.pdf>
 Package pdftex.def Info: Figures/Fig24.pdf used on input line 67.
 (pdftex.def)             Requested size: 409.52899pt x 157.58836pt.
- [48 <./Figures/Fig24.pdf>]
-<Figures/Fig25.pdf, id=469, 638.385pt x 327.2225pt>
+ [49 <./Figures/Fig24.pdf>]
+<Figures/Fig25.pdf, id=473, 638.385pt x 327.2225pt>
 File: Figures/Fig25.pdf Graphic file (type pdf)
  <use Figures/Fig25.pdf>
 Package pdftex.def Info: Figures/Fig25.pdf used on input line 77.
 (pdftex.def)             Requested size: 319.19171pt x 163.61084pt.
 
-[49 <./Figures/Fig25.pdf>] <Figures/Fig26.pdf, id=484, 994.71625pt x 505.89pt>
+[50 <./Figures/Fig25.pdf>] <Figures/Fig26.pdf, id=487, 994.71625pt x 505.89pt>
 File: Figures/Fig26.pdf Graphic file (type pdf)
 
 <use Figures/Fig26.pdf>
 Package pdftex.def Info: Figures/Fig26.pdf used on input line 89.
 (pdftex.def)             Requested size: 497.3569pt x 252.94437pt.
- [50 <./Figures/Fig26.pdf>]
-<Figures/Fig27.pdf, id=499, 561.09625pt x 388.45125pt>
+ [51 <./Figures/Fig26.pdf>]
+<Figures/Fig27.pdf, id=502, 561.09625pt x 388.45125pt>
 File: Figures/Fig27.pdf Graphic file (type pdf)
  <use Figures/Fig27.pdf>
 Package pdftex.def Info: Figures/Fig27.pdf used on input line 99.
 (pdftex.def)             Requested size: 280.54744pt x 194.22514pt.
-) [51 <./Figures/Fig27.pdf>]
+) [52 <./Figures/Fig27.pdf>]
 \openout2 = `ch7/ch7.aux'.
 
  (./ch7/ch7.tex
 Chapter 7.
-<Figures/Fig28.pdf, id=513, 1012.78375pt x 319.1925pt>
+<Figures/Fig28.pdf, id=516, 1012.78375pt x 319.1925pt>
 File: Figures/Fig28.pdf Graphic file (type pdf)
  <use Figures/Fig28.pdf>
 Package pdftex.def Info: Figures/Fig28.pdf used on input line 13.
 (pdftex.def)             Requested size: 506.39064pt x 159.59586pt.
 
-[52
+[53
 
 
 
-] <Figures/Fig29.pdf, id=517, 320.45349pt x 165.07312pt>
+] <Figures/Fig29.pdf, id=520, 320.45349pt x 165.07312pt>
 File: Figures/Fig29.pdf Graphic file (type pdf)
 
 <use Figures/Fig29.pdf>
 Package pdftex.def Info: Figures/Fig29.pdf used on input line 25.
 (pdftex.def)             Requested size: 160.22635pt x 82.53635pt.
- [53 <./Figures/Fig28.pdf>]
-<Figures/Fig30.pdf, id=531, 341.41603pt x 133.2699pt>
+ [54 <./Figures/Fig28.pdf>]
+<Figures/Fig30.pdf, id=534, 341.41603pt x 133.2699pt>
 File: Figures/Fig30.pdf Graphic file (type pdf)
  <use Figures/Fig30.pdf>
 Package pdftex.def Info: Figures/Fig30.pdf used on input line 33.
 (pdftex.def)             Requested size: 170.7076pt x 66.63477pt.
 
-[54 <./Figures/Fig29.pdf>]) [55 <./Figures/Fig30.pdf>]
+[55 <./Figures/Fig29.pdf>]) [56 <./Figures/Fig30.pdf>]
 \openout2 = `ch8/ch8.aux'.
 
  (./ch8/ch8.tex
 Chapter 8.
 
-LaTeX Warning: Citation `Naccache:2014gka' on page 56 undefined on input line 8
+LaTeX Warning: Citation `Naccache:2014gka' on page 57 undefined on input line 8
 .
 
-[56
+[57
 
 
 
-] <Figures/FIg31.pdf, id=726, 640.3925pt x 479.7925pt>
+] <Figures/FIg31.pdf, id=729, 640.3925pt x 479.7925pt>
 File: Figures/FIg31.pdf Graphic file (type pdf)
 
 <use Figures/FIg31.pdf>
 Package pdftex.def Info: Figures/FIg31.pdf used on input line 15.
 (pdftex.def)             Requested size: 320.19547pt x 239.89565pt.
- [57 <./Figures/FIg31.pdf>] [58]
+ [58 <./Figures/FIg31.pdf>] [59]
 
-LaTeX Warning: Citation `Wilson:2014baa' on page 59 undefined on input line 36.
-
-
-[59] [60]) [61] (./Thesis_Main.bbl [62
+LaTeX Warning: Citation `Wilson:2014baa' on page 60 undefined on input line 36.
 
 
-] [63] [64]
+[60] [61]) [62] (./Thesis_Main.bbl [63
+
+
+] [64] [65]
 Underfull \hbox (badness 1062) in paragraph at lines 170--178
 []\T1/bch/m/n/12 S. N. Nac-cache, S. Fe-d-er-man, N. Veer-aragha-van, M. Za-har
 ia, D. Lee,
  []
 
-[65] [66]) [67] (./Thesis_Main.aux (./abstract.aux)
+[66] [67]) [68] (./Thesis_Main.aux (./abstract.aux)
 (./acknowledgment/acknowledgment.aux) (./ch1/ch1.aux) (./ch2/ch2.aux)
 (./ch3/ch3.aux) (./ch4/ch4.aux) (./ch5/ch5.aux) (./ch6/ch6.aux) (./ch7/ch7.aux)
 (./ch8/ch8.aux))
@@ -730,10 +731,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Thesis_Main.pdf (79 pages, 3685815 bytes).
+Output written on Thesis_Main.pdf (80 pages, 3686165 bytes).
 PDF statistics:
- 807 PDF objects out of 1000 (max. 8388607)
- 546 compressed objects within 6 object streams
+ 810 PDF objects out of 1000 (max. 8388607)
+ 548 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
