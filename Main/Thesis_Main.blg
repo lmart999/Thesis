@@ -9,55 +9,59 @@ A level-1 auxiliary file: ch3/ch3.aux
 A level-1 auxiliary file: ch4/ch4.aux
 A level-1 auxiliary file: ch5/ch5.aux
 A level-1 auxiliary file: ch6/ch6.aux
+A level-1 auxiliary file: ch7/ch7.aux
+A level-1 auxiliary file: ch8/ch8.aux
 The style file: abbrv.bst
 Database file #1: Thesis_Refs.bib
-Warning--I didn't find a database entry for "Fournier:2013ew"
-Warning--I didn't find a database entry for "Naccache:2014gk"
 Warning--I didn't find a database entry for "Newman:2014ik"
 Warning--I didn't find a database entry for "Xia:2011it"
+Warning--I didn't find a database entry for "Naccache:2014gk"
 Warning--I didn't find a database entry for "ODonoghue:2010bd"
 Warning--I didn't find a database entry for "Kleines:2009gj"
 Warning--I didn't find a database entry for "Lewis:2013bp"
 Warning--I didn't find a database entry for "Wilson:2014ba"
-You've used 24 entries,
+Warning--empty journal in Lower:tg
+Warning--empty year in Lower:tg
+Warning--empty journal in WangJohanning:2003es
+You've used 40 entries,
             2118 wiz_defined-function locations,
-            689 strings with 9248 characters,
-and the built_in function-call counts, 10600 in all, are:
-= -- 1020
-> -- 671
-< -- 3
-+ -- 266
-- -- 242
-* -- 958
-:= -- 1791
-add.period$ -- 72
-call.type$ -- 24
-change.case$ -- 193
+            785 strings with 13113 characters,
+and the built_in function-call counts, 17930 in all, are:
+= -- 1687
+> -- 1235
+< -- 4
++ -- 490
+- -- 450
+* -- 1649
+:= -- 3074
+add.period$ -- 119
+call.type$ -- 40
+change.case$ -- 345
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 293
-empty$ -- 668
-format.name$ -- 242
-if$ -- 2085
+cite$ -- 43
+duplicate$ -- 471
+empty$ -- 1073
+format.name$ -- 450
+if$ -- 3479
 int.to.chr$ -- 0
-int.to.str$ -- 24
-missing$ -- 24
-newline$ -- 123
-num.names$ -- 48
-pop$ -- 152
+int.to.str$ -- 40
+missing$ -- 40
+newline$ -- 202
+num.names$ -- 80
+pop$ -- 286
 preamble$ -- 1
-purify$ -- 169
+purify$ -- 305
 quote$ -- 0
-skip$ -- 211
+skip$ -- 329
 stack$ -- 0
-substring$ -- 755
-swap$ -- 53
-text.length$ -- 3
+substring$ -- 1166
+swap$ -- 72
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
-warning$ -- 0
-while$ -- 97
-width$ -- 26
-write$ -- 266
-(There were 8 warnings)
+type$ -- 160
+warning$ -- 3
+while$ -- 156
+width$ -- 42
+write$ -- 435
+(There were 10 warnings)

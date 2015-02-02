@@ -47,26 +47,58 @@ In the context of a poliovirus infection, PCBP2 mediates cross-talk between the 
 
 \section{Retroviruses}
 
-We have shown that CLIP can be 
+We have shown, for the first time, that CLIP-seq can be applied to pathogenic RNA viruses. The methods can reveal the molecular interactions between host proteins and the viral genome and is complimentary with high-throughput protein-protein interaction assays that have been applied in similar contexts \cite{Jager:2011de}. Because these interactions are often required for viral replication and translation, information about binding topology can provide insight into mechanism \cite{Walsh:2011kt} as well as reveal new host-viral interactions that guide development of new therapeutic strategies  \cite{Jopling:2005ij}.
 
-Endogenous retroviruses 
-~ 8% of genome
-Normally silenced
+We next considered an alternative framing for viral CLIP experiments: the prior work assayed the binding topology of host protein on a viral genome. Could it be possible to investigate the binding of viral protein on host genes (Figure ~\ref{fig:Fig23})?
+ 
+\begin{figure*}
+\center\includegraphics[width=100mm,scale=0.5]{Figures/Fig23}
+\caption{CLIP applied to viral proteins.}
+\label{fig:Fig23}
+\end{figure*}
 
-HERV-K expressed in embryo:
-After embryonic genome activation
-During early blastocyst outgrowth
+Addressing this question requires a context in which viral proteins are expected to bind host mRNAs. For this, we turned to retroviruses, RNA viruses characterized by two unique, virally encoded enzymes (reverse transcriptase and integrase) in their lifecycle. These enzymes permit the conversion of RNA into DNA, followed by the integration of viral DNA into the host genome, forming a DNA provirus \cite{Stoye:2012gqa}. Because retroviruses do not usually lyse their target cell, integration allows a long-term association between cell and virus. Numerous studies indicate that such events have occurred multiple times during the course of evolution. Such inherited proviruses are called endogenous retroviruses (ERVs) and they provide a fossil record of past retroviral infections dating back many millions of years. 
 
-CLIP Rec, a viral protein
-required for nuclear export in 
-embryonic carcinoma cells (hECCs)
+Analyses of completed genome sequences have revealed that between four and ten per cent of vertebrate DNA is made up of retroviral remnants \cite{Stoye:2012gqa}. In general, the integrated 5 - 10 kb of sequence encodes for canonical retroviral gag, pol and env genes is flanked by two 300 - 1200 nucleotides bp terminal repeats (LTRs).
 
-Read counts to regions in retroviral index  -
+Each of these LTRs contains a promoter for RNA polymerase II and enhancers that are responsive to diverse conditions and signals. LTRs are bound by transcription factors, such as enable spatiotemporal control of proviral expression, though many ERV insertions are transcriptionally silenced in embryonic and adult tissues with repressive epigenetic marks \cite{Stoye:2012gqa}. Failure to maintain or contain these silencing marks would result in the reactivation of dormant ERV insertions. In contrast, some ERV-derived sequences that have been incorporated into the normal regulation of mammalian genes (promoters, enhancers or polyadenylation signals). 
 
-Hits in Rec-responsive element region -
-Lower et. al. PNAS (1993, 1996)
+\begin{figure*}
+\center\includegraphics[width=130mm,scale=0.5]{Figures/Fig24}
+\caption{Two functional regimes for retroviruses.}
+\label{fig:Fig24}
+\end{figure*}
 
+ERVs can be therefore thought of as either neutral, beneficial, or harmful. In the harmful case, retrovirses can be re-activated during immunosuppressive disorders, such as AIDS or cancers. Expression of some retroviral Env proteins can modulate the host immune response. These ERV-encoded Env proteins possess immunosuppressive activities that can promote tumorigenesis, as indicated by several studies with mouse cancer models. In contrast, expression of ERV-encoded products can be beneficial. The Jaagsiekte sheep retrovirus (enJSRV) binds cellular receptors, blocking their ability to bind exogenous viral particles \cite{Spencer:2003hv} (Figure ~\ref{fig:Fig24}).
 
-(1) Export
-(2) Protection against  exogenous infection (driving IFITM1)
-(3) Engage cellular transcripts
+Because retroviral proteins can interact with host factors, we examined the Human ERV-K (HERV-K) subfamily, which is apparently the most recent ERV wave to have entered our genome, perhaps producing insertions as recently as 150,000 years ago. HERV-K retained multiple copies of intact open reading frames (ORFs) that are silenced by the host with exception of certain pathological contexts, such as cancer or HIV \cite{WangJohanning:2003es}. For all human-specific and human-polymorphic HERV-K elements, silencing is mediated by by a specific LTR subgroup, LTR5HS. 
+
+\begin{figure*}
+\center\includegraphics[width=130mm,scale=0.5]{Figures/Fig25}
+\caption{HERV-K is expressed in the naive human embryo.}
+\label{fig:Fig25}
+\end{figure*}
+
+Beyond obvious pathological contexts, recent single-cell RNA-seq has made it possible to examine HERV-K expression in naive embryos prior to blastocyst outgrowth. Analysis of repeat RNAs from single-cell RNA-seq dataset indicates that HERV-K is transcribed at the onset of embryonic genome activation (EGA), at the 8-cell stage, and detected in the embryo prior to EGA \cite{Yan:2013dv}. Human endogenous retrovirus HERV-K and its regulatory element, LTR5HS, were induced after EGA in the 8-cell stage embryos and silenced during blastocyst outgrowth (Figure ~\ref{fig:Fig25}).
+
+Prior studies suggest that retroviral products may be beneficial to the host by preventing exogenous viral infection \cite{WangJohanning:2003es}. We evaluated this by (1) asking whether retroviral products are made in the embyo, (2) examining the interaction between these products at the viral genome for evidence of bona-fide viral activation, and (3) assaying whether retroviral products can influence expression of anti-viral genes.
+
+To evaluate whether HERV-K is functional in embryos, we assayed for the production of viral-like particles (VLPs), which can package viral RNA. We found that HERV-K VLPs indeed assemble in human blastocysts. We then used the CLIP pipeline to assay the viral protein Rec, which promotes nuclear export of viral RNAs. 
+
+\begin{figure*}
+\center\includegraphics[width=130mm,scale=0.5]{Figures/Fig26}
+\caption{Rec binds the 3$'$ UTR of HERV-K in the naive human embryo.}
+\label{fig:Fig26}
+\end{figure*}
+
+Specifically, Rec is responsible for the export of unspliced and incompletely spliced viral RNAs to the cytosol. Rec binds as an oligomer to a responsive element (RcRE), which is located in the U3 region of the 3$'$ untranslated region of HERV-K transcripts \cite{Lower:tg}. If HERV-K is functional in human embryos, we expect this interaction to be observed. With this in mind, we performed CLIP in human embryonic carcinoma cells (hECCs) for Rec and evaluated the reads using a custom retroviral genome index that contained HERV-K as well as its UTR elements. We observed a strong signal in 3' UTR of the virus (Figure ~\ref{fig:Fig25}) in the region expected, the RcRE, which is indicative of viral activation in the embryo. 
+
+With this in mind, we asked whether Rec-mediated nuclear export of viral RNAs into the cytoplasm might lead to the upregulation of innate anti-viral response genes. We observed a striking upregulation of a viral restriction factor IFITM, with around 700 fold induction in human blastocysts as compared to pre-EGA (4-cell and 8-cell stage) embryos. IFTIM1, an interferon induced transmembrane protein, is thought to protect cells from viral infection at an early step by blocking endocytosis of virions into the cytosol. We also found that Rec overexpression is sufficient to increase IFITM1 levels in hECCs, the cell line in which we performed the CLIP. 
+
+\begin{figure*}
+\center\includegraphics[width=100mm,scale=0.5]{Figures/Fig27}
+\caption{Retrovirals products in human embryo.}
+\label{fig:Fig27}
+\end{figure*}
+
+Collectively, these results indicate that pre-implantation development proceeds in the presence of retroviral proteins, which may induce viral restriction factors that protect the embryo from exogenous infection. We used CLIP to evaluate the interaction network of a protein, Rec, that is critical in the HERV-K lifecycle. These results provide further evidence for activation of HERV-K and also reveal a cryptic network of interactions between Rec and host RNAs, which must be further characterized. 

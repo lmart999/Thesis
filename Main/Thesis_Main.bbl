@@ -5,6 +5,11 @@ K.~Aagaard, J.~Ma, K.~M. Antony, R.~Ganu, J.~Petrosino, and J.~Versalovic.
 \newblock {The placenta harbors a unique microbiome}.
 \newblock {\em Science Translational Medicine}, 6(237):237ra65--237ra65, 2014.
 
+\bibitem{Bianchi:2012uc}
+D.~W. Bianchi.
+\newblock {Prenatal diagnostics: Fetal genes in mother's blood}.
+\newblock {\em Nature}, 487(7407):304--305, 2012.
+
 \bibitem{Boyd:2013cc}
 S.~D. Boyd.
 \newblock {Diagnostic Applications of High-Throughput DNA Sequencing}.
@@ -15,6 +20,13 @@ S.~D. Boyd.
 J.~M. Brenchley and D.~C. Douek.
 \newblock {Microbial Translocation Across the GI Tract *}.
 \newblock {\em Annual Review of Immunology}, 30(1):149--173, Apr. 2012.
+
+\bibitem{Buenrostro:2014kx}
+J.~D. Buenrostro, C.~L. Araya, L.~M. Chircus, C.~J. Layton, H.~Y. Chang, M.~P.
+  Snyder, and W.~J. Greenleaf.
+\newblock {Quantitative analysis of RNA-protein interactions on a massively
+  parallel array reveals biophysical and evolutionary landscapes}.
+\newblock {\em Nature Biotechnology}, 32(6):562--568, Apr. 2014.
 
 \bibitem{Calo:2014ix}
 E.~Calo, R.~A. Flynn, L.~Martin, R.~C. Spitale, H.~Y. Chang, and J.~Wysocka.
@@ -59,6 +71,19 @@ R.~A. Flynn, L.~Martin, R.~C. Spitale, B.~T. Do, S.~M. Sagan, B.~Zarnegar,
 \newblock {\em Rna-a Publication of the Rna Society}, 21(1):135--143, Dec.
   2014.
 
+\bibitem{Fordyce:2010fb}
+P.~M. Fordyce, D.~Gerber, D.~Tran, J.~Zheng, H.~Li, J.~L. DeRisi, and S.~R.
+  Quake.
+\newblock {De novo identification and biophysical characterization of
+  transcription-factor binding sites with microfluidic affinity analysis}.
+\newblock {\em Nature Biotechnology}, 28(9):962--967, Aug. 2010.
+
+\bibitem{Fournier:2013ewa}
+P.-E. Fournier, M.~Drancourt, P.~Colson, J.-M. Rolain, B.~La~Scola, and
+  D.~Raoult.
+\newblock {Modern clinical microbiology: new challenges and solutions}.
+\newblock {\em Nature Reviews Microbiology}, 11(8):574--585, Aug. 2013.
+
 \bibitem{Fox:2014fj}
 J.~L. Fox.
 \newblock {Technology comes to typing}.
@@ -81,6 +106,18 @@ J.~D. Hunter.
 \newblock {Matplotlib: A 2D graphics environment}.
 \newblock {\em Computing in Science {\&} Engineering}, 9(3):0090--0095, 2007.
 
+\bibitem{Jager:2011de}
+S.~J{\"a}ger, P.~Cimermancic, N.~Gulbahce, J.~R. Johnson, K.~E. McGovern, S.~C.
+  Clarke, M.~Shales, G.~Mercenne, L.~Pache, and K.~Li.
+\newblock {Global landscape of HIV-human protein complexes}.
+\newblock {\em Nature}, 2011.
+
+\bibitem{Jopling:2005ij}
+C.~L. Jopling.
+\newblock {Modulation of Hepatitis C Virus RNA Abundance by a Liver-Specific
+  MicroRNA}.
+\newblock {\em Science}, 309(5740):1577--1581, Sept. 2005.
+
 \bibitem{Konig:2012ww}
 J.~K{\"o}nig, K.~Zarnack, N.~M. Luscombe, and J.~Ule.
 \newblock {Protein--RNA interactions: new genomic technologies and
@@ -99,6 +136,34 @@ O.~Koren, J.~K. Goodrich, T.~C. Cullender, A.~Spor, K.~Laitinen,
 A.~S. Lauring, J.~Frydman, and R.~Andino.
 \newblock {The role of mutational robustness in RNA virus evolution}.
 \newblock {\em Nature Reviews Microbiology}, pages 1--10, Mar. 2013.
+
+\bibitem{Lower:tg}
+R.~Lo~wer, J.~Lo~wer, and R.~Kurth.
+\newblock {The viruses in all of us: characteristics and biological
+  significance of human endogenous retrovirus sequences.}
+
+\bibitem{Martin:2012cx}
+L.~Martin, M.~Meier, S.~M. Lyons, R.~V. Sit, W.~F. Marzluff, S.~R. Quake, and
+  H.~Y. Chang.
+\newblock {Systematic reconstruction of RNA functional motifs with
+  high-throughput microfluidics}.
+\newblock {\em Nature Methods}, 9(12):1192--1194, Nov. 2012.
+
+\bibitem{Marzluff:2008fy}
+W.~F. Marzluff, E.~J. Wagner, and R.~J. Duronio.
+\newblock {Metabolism and regulation of canonical histone mRNAs: life without a
+  poly (A) tail}.
+\newblock {\em Nature Reviews Genetics}, 9(11):843--854, 2008.
+
+\bibitem{Naccache:2014gka}
+S.~N. Naccache, S.~Federman, N.~Veeraraghavan, M.~Zaharia, D.~Lee, E.~Samayoa,
+  J.~Bouquet, A.~L. Greninger, K.~C. Luk, B.~Enge, D.~A. Wadford, S.~L.
+  Messenger, G.~L. Genrich, K.~Pellegrino, G.~Grard, E.~Leroy, B.~S. Schneider,
+  J.~N. Fair, M.~A. Martinez, P.~Isa, J.~A. Crump, J.~L. DeRisi, T.~Sittler,
+  J.~Hackett, S.~Miller, and C.~Y. Chiu.
+\newblock {A cloud-compatible bioinformatics pipeline for ultrarapid pathogen
+  identification from next-generation sequencing of clinical samples}.
+\newblock {\em Genome Research}, 24(7):1180--1192, July 2014.
 
 \bibitem{Prince:2014gx}
 A.~L. Prince, K.~M. Antony, D.~M. Chu, and K.~M. Aagaard.
@@ -123,10 +188,40 @@ T.~M. Snyder, K.~K. Khush, H.~A. Valantine, and S.~R. Quake.
 \newblock {\em Proceedings of the National Academy of Sciences}, page
   201013924, 2011.
 
+\bibitem{Sonis:2004fj}
+S.~T. Sonis.
+\newblock {The pathobiology of mucositis}.
+\newblock {\em Nature Reviews Cancer}, 4(4):277--284, Apr. 2004.
+
+\bibitem{Spencer:2003hv}
+T.~E. Spencer, M.~Mura, C.~A. Gray, P.~J. Griebel, and M.~Palmarini.
+\newblock {Receptor usage and fetal expression of ovine endogenous
+  betaretroviruses: implications for coevolution of endogenous and exogenous
+  retroviruses}.
+\newblock {\em Journal of Virology}, 77(1):749--753, 2003.
+
+\bibitem{Stoye:2012gqa}
+J.~P. Stoye.
+\newblock {Studies of endogenous retroviruses reveal a continuing evolutionary
+  saga}.
+\newblock {\em Nature Reviews Microbiology}, 10(6):395--406, May 2012.
+
 \bibitem{Walsh:2011kt}
 D.~Walsh and I.~Mohr.
 \newblock {Viral subversion of the host protein synthesis machinery}.
 \newblock {\em Nature Reviews Microbiology}, 9(12):860--875, Oct. 2011.
+
+\bibitem{WangJohanning:2003es}
+F.~Wang-Johanning, A.~R. Frost, B.~Jian, L.~Epp, D.~W. Lu, and G.~L. Johanning.
+\newblock {Quantitation of HERV-K env gene expression and splicing in human
+  breast cancer}.
+\newblock 2003.
+
+\bibitem{Wilson:2014baa}
+J.~A. Wilson and S.~M. Sagan.
+\newblock {Hepatitis C virus and human miR-122: insights from the bench to the
+  clinic}.
+\newblock {\em Current Opinion in Virology}, 7:11--18, Aug. 2014.
 
 \bibitem{Wilson:2014dv}
 M.~R. Wilson, S.~N. Naccache, E.~Samayoa, M.~Biagtan, H.~Bashir, G.~Yu, S.~M.
@@ -136,6 +231,14 @@ M.~R. Wilson, S.~N. Naccache, E.~Samayoa, M.~Biagtan, H.~Bashir, G.~Yu, S.~M.
 \newblock {Actionable Diagnosis of Neuroleptospirosis by Next-Generation
   Sequencing}.
 \newblock {\em New England Journal of Medicine}, 370(25):2408--2417, June 2014.
+
+\bibitem{Yan:2013dv}
+L.~Yan, M.~Yang, H.~Guo, L.~Yang, J.~Wu, R.~Li, P.~Liu, Y.~Lian, X.~Zheng,
+  J.~Yan, J.~Huang, M.~Li, X.~Wu, L.~Wen, K.~Lao, R.~Li, J.~Qiao, and F.~Tang.
+\newblock {Single-cell RNA-Seq profiling of human preimplantation embryos and
+  embryonic stem cells}.
+\newblock {\em Nature Structural {\&} Molecular Biology}, pages 1--12, Aug.
+  2013.
 
 \bibitem{Zarnack:2013iv}
 K.~Zarnack, J.~K{\"o}nig, M.~Tajnik, I.~Martincorena, S.~Eustermann,
