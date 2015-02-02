@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 FEB 2015 21:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 FEB 2015 12:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -371,41 +371,22 @@ ns-la-tion, par-al-lel anal-
 
  (./ch2/ch2.tex
 Chapter 2.
-
-LaTeX Warning: Citation `Newman:2014ik' on page 9 undefined on input line 5.
-
 [9
 
 
 
-]
-
-LaTeX Warning: Citation `Xia:2011it' on page 10 undefined on input line 13.
-
-<Figures/Fig3.pdf, id=101, 728.7225pt x 439.6425pt>
+] <Figures/Fig3.pdf, id=101, 728.7225pt x 439.6425pt>
 File: Figures/Fig3.pdf Graphic file (type pdf)
  <use Figures/Fig3.pdf>
 Package pdftex.def Info: Figures/Fig3.pdf used on input line 18.
 (pdftex.def)             Requested size: 364.36035pt x 219.82071pt.
 
-[10]
-
-LaTeX Warning: Citation `Naccache:2014gk' on page 11 undefined on input line 29
-.
-
-
-LaTeX Warning: Citation `Xia:2011it' on page 11 undefined on input line 31.
-
-[11 <./Figures/Fig3.pdf>] <Figures/Fig4.pdf, id=118, 1172.38pt x 328.22626pt>
+[10] [11 <./Figures/Fig3.pdf>]
+<Figures/Fig4.pdf, id=118, 1172.38pt x 328.22626pt>
 File: Figures/Fig4.pdf Graphic file (type pdf)
-
-<use Figures/Fig4.pdf>
+ <use Figures/Fig4.pdf>
 Package pdftex.def Info: Figures/Fig4.pdf used on input line 34.
 (pdftex.def)             Requested size: 586.18857pt x 164.11272pt.
-
-
-LaTeX Warning: Citation `ODonoghue:2010bd' on page 12 undefined on input line 4
-1.
 
 [12 <./Figures/Fig4.pdf>] <Figures/Fig5.pdf, id=132, 1018.80624pt x 682.55pt>
 File: Figures/Fig5.pdf Graphic file (type pdf)
@@ -443,10 +424,6 @@ File: Figures/Fig8.pdf Graphic file (type pdf)
 Package pdftex.def Info: Figures/Fig8.pdf used on input line 78.
 (pdftex.def)             Requested size: 620.81786pt x 379.91844pt.
 
-
-LaTeX Warning: Citation `Kleines:2009gj' on page 15 undefined on input line 83.
-
-
 [15 <./Figures/Fig7.pdf>]) [16 <./Figures/Fig8.pdf>]
 \openout2 = `ch3/ch3.aux'.
 
@@ -463,10 +440,6 @@ Package pdftex.def Info: Figures/Fig9.pdf used on input line 10.
 
 
 ]
-
-LaTeX Warning: Citation `Xia:2011it' on page 18 undefined on input line 17.
-
-
 Overfull \hbox (2.82675pt too wide) in paragraph at lines 17--18
 \T1/bch/m/n/12 sam-ple. We did this by first pro-cess-ing the BLAST data with a
 n al-go-rithm (GRAMMy)
@@ -545,9 +518,6 @@ Package pdftex.def Info: Figures/Fig14_2.png used on input line 48.
  (./ch5/ch5.tex
 Chapter 5.
 
-LaTeX Warning: Citation `Lewis:2013bp' on page 32 undefined on input line 7.
-
-
 Overfull \hbox (0.15538pt too wide) in paragraph at lines 7--8
 \T1/bch/m/n/12 ap-proach en-cour-aged sci-en-tists to de-velop chem-i-cals that
  kill the spe-cific pathogens,
@@ -563,21 +533,7 @@ enamine) in 1910. Within
 
 
 
-] [33]
-
-LaTeX Warning: Citation `Wilson:2014ba' on page 34 undefined on input line 27.
-
-
-LaTeX Warning: Citation `Wilson:2014ba' on page 34 undefined on input line 31.
-
-
-LaTeX Warning: Citation `Wilson:2014ba' on page 34 undefined on input line 33.
-
-[34]
-
-LaTeX Warning: Citation `Wilson:2014ba' on page 35 undefined on input line 35.
-
-
+] [33] [34]
 Overfull \hbox (4.02347pt too wide) in paragraph at lines 45--46
 \T1/bch/m/n/12 with strin-gent pu-rifi-ca-tion steps, UV cross-linking im-muno-
 pre-cip-i-ta-tion and se-quenc-
@@ -720,6 +676,10 @@ Package pdftex.def Info: Figures/Fig30.pdf used on input line 33.
 
  (./ch8/ch8.tex
 Chapter 8.
+
+LaTeX Warning: Citation `Naccache:2014gka' on page 56 undefined on input line 8
+.
+
 [56
 
 
@@ -730,17 +690,21 @@ File: Figures/FIg31.pdf Graphic file (type pdf)
 <use Figures/FIg31.pdf>
 Package pdftex.def Info: Figures/FIg31.pdf used on input line 15.
 (pdftex.def)             Requested size: 320.19547pt x 239.89565pt.
- [57 <./Figures/FIg31.pdf>] [58] [59] [60]) [61]
-(./Thesis_Main.bbl [62
+ [57 <./Figures/FIg31.pdf>] [58]
+
+LaTeX Warning: Citation `Wilson:2014baa' on page 59 undefined on input line 36.
 
 
-] [63]
-Underfull \hbox (badness 1062) in paragraph at lines 159--167
+[59] [60]) [61] (./Thesis_Main.bbl [62
+
+
+] [63] [64]
+Underfull \hbox (badness 1062) in paragraph at lines 170--178
 []\T1/bch/m/n/12 S. N. Nac-cache, S. Fe-d-er-man, N. Veer-aragha-van, M. Za-har
 ia, D. Lee,
  []
 
-[64] [65]) [66] (./Thesis_Main.aux (./abstract.aux)
+[65] [66]) [67] (./Thesis_Main.aux (./abstract.aux)
 (./acknowledgment/acknowledgment.aux) (./ch1/ch1.aux) (./ch2/ch2.aux)
 (./ch3/ch3.aux) (./ch4/ch4.aux) (./ch5/ch5.aux) (./ch6/ch6.aux) (./ch7/ch7.aux)
 (./ch8/ch8.aux))
@@ -751,7 +715,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  3396 strings out of 493117
  45434 string characters out of 6135433
- 103149 words of memory out of 5000000
+ 103169 words of memory out of 5000000
  6658 multiletter control sequences out of 15000+600000
  36690 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -766,10 +730,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Thesis_Main.pdf (78 pages, 3684530 bytes).
+Output written on Thesis_Main.pdf (79 pages, 3685815 bytes).
 PDF statistics:
- 803 PDF objects out of 1000 (max. 8388607)
- 543 compressed objects within 6 object streams
+ 807 PDF objects out of 1000 (max. 8388607)
+ 546 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
  171 words of extra memory for PDF output out of 10000 (max. 10000000)
 

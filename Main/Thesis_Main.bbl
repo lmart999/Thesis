@@ -118,6 +118,12 @@ C.~L. Jopling.
   MicroRNA}.
 \newblock {\em Science}, 309(5740):1577--1581, Sept. 2005.
 
+\bibitem{Kleines:2009gj}
+M.~Kleines, M.~H{\"a}usler, A.~Kr{\"u}ttgen, and S.~Scheithauer.
+\newblock {WU Polyomavirus (WUPyV): A Recently Detected Virus Causing
+  Respiratory Disease?}
+\newblock {\em Viruses}, 1(3):678--688, Dec. 2009.
+
 \bibitem{Konig:2012ww}
 J.~K{\"o}nig, K.~Zarnack, N.~M. Luscombe, and J.~Ule.
 \newblock {Protein--RNA interactions: new genomic technologies and
@@ -137,6 +143,11 @@ A.~S. Lauring, J.~Frydman, and R.~Andino.
 \newblock {The role of mutational robustness in RNA virus evolution}.
 \newblock {\em Nature Reviews Microbiology}, pages 1--10, Mar. 2013.
 
+\bibitem{Lewis:2013bp}
+K.~Lewis.
+\newblock {Platforms for antibiotic discovery}.
+\newblock {\em Nature Reviews Drug Discovery}, 12(5):371--387, Apr. 2013.
+
 \bibitem{Lower:tg}
 R.~Lo~wer, J.~Lo~wer, and R.~Kurth.
 \newblock {The viruses in all of us: characteristics and biological
@@ -155,7 +166,7 @@ W.~F. Marzluff, E.~J. Wagner, and R.~J. Duronio.
   poly (A) tail}.
 \newblock {\em Nature Reviews Genetics}, 9(11):843--854, 2008.
 
-\bibitem{Naccache:2014gka}
+\bibitem{Naccache:2014gk}
 S.~N. Naccache, S.~Federman, N.~Veeraraghavan, M.~Zaharia, D.~Lee, E.~Samayoa,
   J.~Bouquet, A.~L. Greninger, K.~C. Luk, B.~Enge, D.~A. Wadford, S.~L.
   Messenger, G.~L. Genrich, K.~Pellegrino, G.~Grard, E.~Leroy, B.~S. Schneider,
@@ -164,6 +175,21 @@ S.~N. Naccache, S.~Federman, N.~Veeraraghavan, M.~Zaharia, D.~Lee, E.~Samayoa,
 \newblock {A cloud-compatible bioinformatics pipeline for ultrarapid pathogen
   identification from next-generation sequencing of clinical samples}.
 \newblock {\em Genome Research}, 24(7):1180--1192, July 2014.
+
+\bibitem{Newman:2014ik}
+A.~M. Newman, S.~V. Bratman, J.~To, J.~F. Wynne, N.~C.~W. Eclov, L.~A. Modlin,
+  C.~L. Liu, J.~W. Neal, H.~A. Wakelee, R.~E. Merritt, J.~B. Shrager, B.~W.
+  Loo, A.~A. Alizadeh, and M.~Diehn.
+\newblock {An ultrasensitive method for quantitating circulating tumor DNA with
+  broad patient coverage}.
+\newblock {\em Nature Medicine}, pages 1--9, Apr. 2014.
+
+\bibitem{ODonoghue:2010bd}
+S.~I. O'Donoghue, A.-C. Gavin, N.~Gehlenborg, D.~S. Goodsell, J.-K.
+  H{\'e}rich{\'e}, C.~B. Nielsen, C.~North, A.~J. Olson, J.~B. Procter, D.~W.
+  Shattuck, T.~Walter, and B.~Wong.
+\newblock {Visualizing biological data---now and in the future}.
+\newblock {\em Nature Methods}, 7(3s):S2--S4, Mar. 2010.
 
 \bibitem{Prince:2014gx}
 A.~L. Prince, K.~M. Antony, D.~M. Chu, and K.~M. Aagaard.
@@ -217,7 +243,7 @@ F.~Wang-Johanning, A.~R. Frost, B.~Jian, L.~Epp, D.~W. Lu, and G.~L. Johanning.
   breast cancer}.
 \newblock 2003.
 
-\bibitem{Wilson:2014baa}
+\bibitem{Wilson:2014ba}
 J.~A. Wilson and S.~M. Sagan.
 \newblock {Hepatitis C virus and human miR-122: insights from the bench to the
   clinic}.
@@ -231,6 +257,12 @@ M.~R. Wilson, S.~N. Naccache, E.~Samayoa, M.~Biagtan, H.~Bashir, G.~Yu, S.~M.
 \newblock {Actionable Diagnosis of Neuroleptospirosis by Next-Generation
   Sequencing}.
 \newblock {\em New England Journal of Medicine}, 370(25):2408--2417, June 2014.
+
+\bibitem{Xia:2011it}
+L.~C. Xia, J.~A. Cram, T.~Chen, J.~A. Fuhrman, and F.~Sun.
+\newblock {Accurate Genome Relative Abundance Estimation Based on Shotgun
+  Metagenomic Reads}.
+\newblock {\em PloS one}, 6(12):e27992, Dec. 2011.
 
 \bibitem{Yan:2013dv}
 L.~Yan, M.~Yang, H.~Guo, L.~Yang, J.~Wu, R.~Li, P.~Liu, Y.~Lian, X.~Zheng,
