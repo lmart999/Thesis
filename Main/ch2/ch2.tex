@@ -26,7 +26,7 @@ Prior to establishing the clinical relevance of micro-organism derived cell-free
 
 \textbf{Interpretation}: the data must bed organized and presented at scale, across large clinical cohorts, such that it is intuitive for researchers and clinicians.
 
-The signal problem will be addressed through bio-chemical methods to enrich for non-human derived nucleic acids. Furthermore, the speed problem has recently been addressed using faster alignment algorithms, such as SNAP in place of BLAST and RAPSearch for assignment of de novo contig assemblies in order to classify potentially novel organisms \cite{Naccache:2014gk}. Despite these technical advances, there will probably continue to be a gap between the availability of such data and the ability to comprehensively interpret the results for clinical decision making. 
+The signal problem will like be addressed through bio-chemical methods to enrich for non-human derived nucleic acids. Furthermore, the speed problem has recently been addressed using faster alignment algorithms, such as SNAP in place of BLAST and RAPSearch for assignment of de novo contig assemblies in order to classify potentially novel organisms \cite{Naccache:2014gk}. Despite these technical advances, there will probably continue to be a gap between the availability of such data and the ability to comprehensively interpret the results for clinical decision making. 
 
 With this in mind, our emphasis was to develop a full application stack that performed both processing as well as data organization and visualization to aid with interpretation of the results. In order to achieve this, we built a pipeline comprised of cluster scripts that execute alignment, BLAST, and associated clean-up scripts \cite{Xia:2011it}. We then build an application stack on top of this pipeline written in Python, using a Postgres relational database as the store for relevant pipeline-specific reference files (e.g., taxonomic table), outputs (e.g., BLAST results), and sample -meta data. We wrote the application using the Django web-development framework with the Matplotlib visualization library \cite{Hunter:2007ux} and the Pandas library for data analysis, and Sqlalchemy for integration with Postgres (Figure ~\ref{fig:Fig4}).
 
@@ -52,15 +52,15 @@ The patient-centric approach can be used to quickly identify the infections iden
 
 First, each organism has a different genome size and, in turn, genome size affects the number of reads expected for each. Second, reads often align to multiple genomes. Taking these into account, GRAMMy performs a maximum likelihood estimation for read assignment to each organism and provides relative abundance measurement per organism within each cell-free DNA sample. 
 
-From this measurment, we compute an estimate for absolute read counts per each identified genome. With this value, we then compute a coverage ratio between the infection and the human for that sample. We scale this value by $10^6$, resulting in relative genome copies per million ($gcm$). In isolation, this value is reasonably intuitive: it indicates the number of genome copies for a given infection relative to sampled human-derived reads in that sample. A ratio of $1$, for example, means that sampled organism genome copies is equivalent to sampled human genome copies. 
-
-For presentation, the raw $gcm$ value may not be informative: a large value may be use we convert this value into a percentile (Figure ~\ref{fig:Fig6}) with respect to the full cohort for that particular infection. The percentile value simply indicates the magnitude of each measurement relative to what was observed across the cohort. 
-
 \begin{figure*}
 \center\includegraphics[width=150mm,scale=0.5]{Figures/Fig6}
 \caption{Patient view in the infectome application.}
 \label{fig:Fig6}
 \end{figure*}
+
+From this measurment, we compute an estimate for absolute read counts per each identified genome. With this value, we then compute a coverage ratio between the infection and the human for that sample. We scale this value by $10^6$, resulting in relative genome copies per million ($gcm$). In isolation, this value is reasonably intuitive: it indicates the number of genome copies for a given infection relative to sampled human-derived reads in that sample. A ratio of $1$, for example, means that sampled organism genome copies is equivalent to sampled human genome copies. 
+
+For presentation, the raw $gcm$ value may not be informative: a large value may be use we convert this value into a percentile (Figure ~\ref{fig:Fig6}) with respect to the full cohort for that particular infection. The percentile value simply indicates the magnitude of each measurement relative to what was observed across the cohort. 
 
 From the patient view, it is possible to drill down into each identified infection. In this case, it is useful to know both time-series data for that infection as well as detailed information about read coverage across the microbial genome. Both measurements can provide greater confidence about a given signal. For example, a consistent infection timeseries across samples supports likelihood of a bona-fire infection relative to a spurious signal found in one sample.
 

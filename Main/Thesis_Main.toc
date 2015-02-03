@@ -21,35 +21,35 @@
 \contentsline {chapter}{\numberline {4}The blood microbiome}{26}
 \contentsline {section}{\numberline {4.1}Importance of the microbiome}{26}
 \contentsline {section}{\numberline {4.2}Linking blood and body sites}{26}
-\contentsline {section}{\numberline {4.3}Coupling between blood and body sites}{29}
+\contentsline {section}{\numberline {4.3}Coupling between blood and body sites}{30}
 \contentsline {section}{\numberline {4.4}Summary}{32}
-\contentsline {chapter}{\numberline {5}Sequencing to explore mechanism}{33}
-\contentsline {section}{\numberline {5.1}Therapeutics}{33}
-\contentsline {subsection}{\numberline {5.1.1}Antibiotics}{33}
-\contentsline {subsection}{\numberline {5.1.2}Antivirals}{34}
-\contentsline {subsection}{\numberline {5.1.3}The challenge}{34}
-\contentsline {section}{\numberline {5.2}Mechanism}{35}
-\contentsline {subsection}{\numberline {5.2.1}The case for mechanistic studies}{35}
-\contentsline {subsection}{\numberline {5.2.2}The importance of molecular interactions}{35}
-\contentsline {section}{\numberline {5.3}RNA-protein interactions}{36}
-\contentsline {section}{\numberline {5.4}CLIP pipeline}{36}
-\contentsline {subsection}{\numberline {5.4.1}Philosophy}{36}
-\contentsline {section}{\numberline {5.5}CLIP pipeline applications}{38}
-\contentsline {subsection}{\numberline {5.5.1}Application to DDX21}{38}
-\contentsline {subsection}{\numberline {5.5.2}Summary}{42}
-\contentsline {chapter}{\numberline {6}Infectious disease mechanism}{43}
-\contentsline {section}{\numberline {6.1}HCV}{44}
-\contentsline {section}{\numberline {6.2}Retroviruses}{48}
-\contentsline {chapter}{\numberline {7}Biophysical validation}{53}
-\contentsline {section}{\numberline {7.1}The challenge with sequencing}{53}
-\contentsline {section}{\numberline {7.2}Highly multiplexed validation}{53}
-\contentsline {section}{\numberline {7.3}Stem loop binding protein}{54}
-\contentsline {section}{\numberline {7.4}Summary}{56}
-\contentsline {chapter}{\numberline {8}Conclusions}{57}
-\contentsline {section}{\numberline {8.1}The case of NGS and infectious disease}{57}
-\contentsline {section}{\numberline {8.2}The cell-free DNA opportunity}{58}
-\contentsline {section}{\numberline {8.3}Quantifying micro-orgamisms in cell-free DNA}{59}
-\contentsline {section}{\numberline {8.4}Molecular counting for pathogen diagnostics}{59}
-\contentsline {section}{\numberline {8.5}Molecular counting for pathogen mechanism}{60}
-\contentsline {section}{\numberline {8.6}Summary and perspective}{61}
-\contentsline {chapter}{Bibliography}{63}
+\contentsline {chapter}{\numberline {5}Sequencing to explore mechanism}{34}
+\contentsline {section}{\numberline {5.1}Therapeutics}{34}
+\contentsline {subsection}{\numberline {5.1.1}Antibiotics}{34}
+\contentsline {subsection}{\numberline {5.1.2}Antivirals}{35}
+\contentsline {subsection}{\numberline {5.1.3}The challenge}{35}
+\contentsline {section}{\numberline {5.2}Mechanism}{36}
+\contentsline {subsection}{\numberline {5.2.1}The case for mechanistic studies}{36}
+\contentsline {subsection}{\numberline {5.2.2}The importance of molecular interactions}{36}
+\contentsline {section}{\numberline {5.3}RNA-protein interactions}{37}
+\contentsline {section}{\numberline {5.4}CLIP pipeline}{37}
+\contentsline {subsection}{\numberline {5.4.1}Philosophy}{37}
+\contentsline {section}{\numberline {5.5}CLIP pipeline applications}{39}
+\contentsline {subsection}{\numberline {5.5.1}Application to DDX21}{39}
+\contentsline {subsection}{\numberline {5.5.2}Summary}{43}
+\contentsline {chapter}{\numberline {6}Infectious disease mechanism}{44}
+\contentsline {section}{\numberline {6.1}HCV}{45}
+\contentsline {section}{\numberline {6.2}Retroviruses}{49}
+\contentsline {chapter}{\numberline {7}Biophysical validation}{54}
+\contentsline {section}{\numberline {7.1}The challenge with sequencing}{54}
+\contentsline {section}{\numberline {7.2}Highly multiplexed validation}{54}
+\contentsline {section}{\numberline {7.3}Stem loop binding protein}{55}
+\contentsline {section}{\numberline {7.4}Summary}{57}
+\contentsline {chapter}{\numberline {8}Conclusions}{58}
+\contentsline {section}{\numberline {8.1}The case of NGS and infectious disease}{58}
+\contentsline {section}{\numberline {8.2}The cell-free DNA opportunity}{59}
+\contentsline {section}{\numberline {8.3}Quantifying micro-orgamisms in cell-free DNA}{60}
+\contentsline {section}{\numberline {8.4}Molecular counting for pathogen diagnostics}{60}
+\contentsline {section}{\numberline {8.5}Molecular counting for pathogen mechanism}{61}
+\contentsline {section}{\numberline {8.6}Summary and perspective}{62}
+\contentsline {chapter}{Bibliography}{64}
